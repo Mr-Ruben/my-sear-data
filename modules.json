@@ -1,36 +1,87 @@
 {
-	"en-GB": { 
-		"langName":"English (British English)",
-		"modules":[
-			{
-				"name":"1. Open Vowels", 
-				"id":"100"
-			},
-			{
-				"name":"2. Closed Vowels", 
-				"id":"110"
-			},
-			{
-				"name":"3. Consonants 1", 
-				"id":"120"
-			}
-		]
-	},
-	"es-ES": {
-		"langName":"Spanish (Spain)",
-		"modules":[
-			{
-				"name":"1. Basic" , 
-				"id":"100"
-			},
-			{
-				"name":"2. iddle", 
-				"id":"110"
-			},
-			{
-				"name":"3. Advanced", 
-				"id":"120"
-			}
-		] 
-	}
+   "en-GB":{
+      "langName":"English (British English)",
+      "modules":{
+         "1. bush busy":{
+            "name":"1. bush busy",
+            "id":"1. bush busy",
+            "words":[
+               "bush",
+               "busy"]
+         },
+         "2. ae book bread":{
+            "name":"2. ae book bread",
+            "id":"2. ae book bread",
+            "words":[
+               "aesthetic",
+               "book",
+               "bread"          ]
+         },
+         "3.7words":{
+            "name":"3.7words",
+            "id":"3.7words",
+            "words":[
+               "aesthetic",
+               "book",
+               "bread",
+               "build",
+               "bury",
+               "bush",
+               "busy"]
+            
+         },
+         "4.Manymany":{
+            "name":"4.Manymany",
+            "id":"4.Manymany",
+            "words":[
+               "aesthetic",
+               "book",
+               "bread",
+               "build",
+               "bury",
+               "bush",
+               "busy",
+               "cat",
+               "could",
+               "egg",
+               "England",
+               "flood",
+               "friend",
+               "heifer",
+               "hymn",
+               "igloo",
+               "leopard",
+               "many",
+               "monkey",
+               "mug",
+               "orange",
+               "plaid",
+               "said",
+               "say",
+               "sieve",
+               "swan",
+               "trouble",
+               "wolf",
+               "women"
+            ]
+         }
+      }
+   },
+   "es-ES":{
+      "langName":"Spanish (Spain)",
+      "modules":{
+         "es-ES_100":{
+            "name":"1. Basic",
+            "id":"es-ES_100"
+         },
+         "es-ES_110":{
+            "name":"2. iddle",
+            "id":"es-ES_110"
+         },
+         "es-ES_120":{
+            "name":"3. Advanced",
+            "id":"es-ES_120"
+         }
+      }
+   }
 }
