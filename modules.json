@@ -7,6 +7,29 @@
             "id":"1.AEIOU",
             "words":["A","E","I","O","U"]
          },
+      "2.BCDFG":{
+"name":"2. B C D F G",
+"id":"2.BCDFG",
+"words":["B","C","D","F","G"]
+},
+
+"3.HJKLM":{
+"name":"3. H J K L M",
+"id":"3.HJKLM",
+"words":["H","J","K","L","M"]
+},
+
+"4.NPQRS":{
+"name":"4. N P Q R S",
+"id":"4.NPQRS",
+"words":["N","P","Q","R","S"]
+},
+
+"5.TVWXYZ":{
+"name":"5. T V W X Y Z",
+"id":"5.TVWXYZ",
+"words":["T","V","W","X","Y","Z"]
+},
       
          "1. bush busy":{
             "name":"1. bush busy",
