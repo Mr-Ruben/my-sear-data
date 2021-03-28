@@ -2,6 +2,12 @@
    "en-GB":{
       "langName":"English (British English)",
       "modules":{
+         "1.AEIOU":{
+            "name":"1. A E I O U",
+            "id":"1.AEIOU",
+            "words":["A","E","I","O","U"]
+         },
+      {
          "1. bush busy":{
             "name":"1. bush busy",
             "id":"1. bush busy",
