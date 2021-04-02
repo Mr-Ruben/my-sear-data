@@ -9117,14 +9117,7 @@
             "word": "E",
             "ipa": "/ˈiː/",
             "trueSounds": [
-                {
-                    "id": "E_en-GB_Amy",
-                    "soundFile": "E_en-GB_Amy.mp3",
-                    "languageCode": "en-GB",
-                    "waveFile": "E_en-GB_Amy.svg",
-                    "isSolution": true,
-                    "voice": "Amy"
-                },
+                
                 {
                     "id": "E_en-GB_Brian",
                     "soundFile": "E_en-GB_Brian.mp3",
@@ -14285,14 +14278,7 @@
             "word": "R",
             "ipa": "/ˈɑːr/",
             "trueSounds": [
-                {
-                    "id": "R_en-GB_Amy",
-                    "soundFile": "R_en-GB_Amy.mp3",
-                    "languageCode": "en-GB",
-                    "waveFile": "R_en-GB_Amy.svg",
-                    "isSolution": true,
-                    "voice": "Amy"
-                },
+                
                 {
                     "id": "R_en-GB_Brian",
                     "soundFile": "R_en-GB_Brian.mp3",
