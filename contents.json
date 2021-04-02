@@ -8820,14 +8820,7 @@
             "word": "A",
             "ipa": "/eɪ/",
             "trueSounds": [
-                {
-                    "id": "A_en-GB_Amy",
-                    "soundFile": "A_en-GB_Amy.mp3",
-                    "languageCode": "en-GB",
-                    "waveFile": "A_en-GB_Amy.svg",
-                    "isSolution": true,
-                    "voice": "Amy"
-                },
+                
                 {
                     "id": "A_en-GB_Brian",
                     "soundFile": "A_en-GB_Brian.mp3",
