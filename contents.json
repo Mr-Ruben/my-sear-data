@@ -17306,31 +17306,23 @@
         },
         "choice": {
             "word": "choice",
-            "ipa": "/ˈtʃɔɪs/",
+            "ipa": "/tʃɔɪs/",
             "trueSounds": [
                 {
                     "id": "choice_en-GB_Amy",
+                    "isSolution": true,
+                    "languageCode": "en-GB",
                     "soundFile": "choice_en-GB_Amy.mp3",
-                    "languageCode": "en-GB",
-                    "waveFile": "choice_en-GB_Amy.svg",
-                    "isSolution": true,
-                    "voice": "Amy"
-                },
-                {
-                    "id": "choice_en-GB_Brian",
-                    "soundFile": "choice_en-GB_Brian.mp3",
-                    "languageCode": "en-GB",
-                    "waveFile": "choice_en-GB_Brian.svg",
-                    "isSolution": true,
-                    "voice": "Brian"
+                    "voice": "Amy",
+                    "waveFile": "choice_en-GB_Amy.svg"
                 },
                 {
                     "id": "choice_en-GB_Emma",
-                    "soundFile": "choice_en-GB_Emma.mp3",
-                    "languageCode": "en-GB",
-                    "waveFile": "choice_en-GB_Emma.svg",
                     "isSolution": true,
-                    "voice": "Emma"
+                    "languageCode": "en-GB",
+                    "soundFile": "choice_en-GB_Emma.mp3",
+                    "voice": "Emma",
+                    "waveFile": "choice_en-GB_Emma.svg"
                 }
             ],
             "falseSounds": [
@@ -24298,31 +24290,23 @@
         },
         "gem": {
             "word": "gem",
-            "ipa": "/ˈdʒɛm/",
+            "ipa": "/dʒɛm/",
             "trueSounds": [
                 {
                     "id": "gem_en-GB_Amy",
-                    "soundFile": "gem_en-GB_Amy.mp3",
-                    "languageCode": "en-GB",
-                    "waveFile": "gem_en-GB_Amy.svg",
                     "isSolution": true,
-                    "voice": "Amy"
+                    "languageCode": "en-GB",
+                    "soundFile": "gem_en-GB_Amy.mp3",
+                    "voice": "Amy",
+                    "waveFile": "gem_en-GB_Amy.svg"
                 },
                 {
                     "id": "gem_en-GB_Brian",
+                    "isSolution": true,
+                    "languageCode": "en-GB",
                     "soundFile": "gem_en-GB_Brian.mp3",
-                    "languageCode": "en-GB",
-                    "waveFile": "gem_en-GB_Brian.svg",
-                    "isSolution": true,
-                    "voice": "Brian"
-                },
-                {
-                    "id": "gem_en-GB_Emma",
-                    "soundFile": "gem_en-GB_Emma.mp3",
-                    "languageCode": "en-GB",
-                    "waveFile": "gem_en-GB_Emma.svg",
-                    "isSolution": true,
-                    "voice": "Emma"
+                    "voice": "Brian",
+                    "waveFile": "gem_en-GB_Brian.svg"
                 }
             ],
             "falseSounds": [
