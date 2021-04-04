@@ -1,40 +1,271 @@
 {
    "en-GB":{
-      
       "langName":"English (British English)",
       "modules":{
          "1.AEIOU":{
             "name":"1. A E I O U",
             "id":"1.AEIOU",
-            "words":["A","E","I","O","U"]
+            "words":[
+               "A",
+               "E",
+               "I",
+               "O",
+               "U"
+            ]
          },
          "2.BCDFG":{
             "name":"2. B C D F G",
             "id":"2.BCDFG",
-            "words":["B","C","D","F","G"]
+            "words":[
+               "B",
+               "C",
+               "D",
+               "F",
+               "G"
+            ]
          },
-
          "3.HJKLM":{
             "name":"3. H J K L M",
             "id":"3.HJKLM",
-            "words":["H","J","K","L","M"]
+            "words":[
+               "H",
+               "J",
+               "K",
+               "L",
+               "M"
+            ]
          },
-
          "4.NPQRS":{
             "name":"4. N P Q R S",
             "id":"4.NPQRS",
-            "words":["N","P","Q","R","S"]
+            "words":[
+               "N",
+               "P",
+               "Q",
+               "R",
+               "S"
+            ]
          },
-
          "5.TVWXYZ":{
             "name":"5. T V W X Y Z",
             "id":"5.TVWXYZ",
-            "words":["T","V","W","X","Y","Z"]
+            "words":[
+               "T",
+               "V",
+               "W",
+               "X",
+               "Y",
+               "Z"
+            ]
          },
-         
-
+         "Diphthong:  /aɪ/":{
+            "id":"Diphthong:  /aɪ/",
+            "name":"Diphthong:  /aɪ/",
+            "words":[
+               "sky",
+               "buy",
+               "cry"
+            ]
+         },
+         "Diphthong:  /aʊ/":{
+            "id":"Diphthong:  /aʊ/",
+            "name":"Diphthong:  /aʊ/",
+            "words":[
+               "mouth",
+               "now",
+               "fowl"
+            ]
+         },
+         "Diphthong:  /eə/":{
+            "id":"Diphthong:  /eə/",
+            "name":"Diphthong:  /eə/",
+            "words":[
+               "bear",
+               "pair",
+               "hair"
+            ]
+         },
+         "Diphthong:  /eɪ/":{
+            "id":"Diphthong:  /eɪ/",
+            "name":"Diphthong:  /eɪ/",
+            "words":[
+               "day",
+               "pay",
+               "say"
+            ]
+         },
+         "Diphthong:  /ɔɪ/":{
+            "id":"Diphthong:  /ɔɪ/",
+            "name":"Diphthong:  /ɔɪ/",
+            "words":[
+               "boy",
+               "toy",
+               "coy"
+            ]
+         },
+         "Diphthong:  /əʊ/":{
+            "id":"Diphthong:  /əʊ/",
+            "name":"Diphthong:  /əʊ/",
+            "words":[
+               "boat",
+               "no",
+               "show"
+            ]
+         },
+         "Diphthong:  /ɪə/":{
+            "id":"Diphthong:  /ɪə/",
+            "name":"Diphthong:  /ɪə/",
+            "words":[
+               "beer",
+               "pier",
+               "hear"
+            ]
+         },
+         "Diphthong:  /ʊə/":{
+            "id":"Diphthong:  /ʊə/",
+            "name":"Diphthong:  /ʊə/",
+            "words":[
+               "tour",
+               "poor"
+            ]
+         },
+         "Long vowels: AR":{
+            "id":"Long vowels: AR",
+            "name":"Long vowels: AR",
+            "words":[
+               "father",
+               "start",
+               "hard"
+            ]
+         },
+         "Long vowels: E":{
+            "id":"Long vowels: E",
+            "name":"Long vowels: E",
+            "words":[
+               "eat",
+               "meet",
+               "fleece"
+            ]
+         },
+         "Long vowels: IR":{
+            "id":"Long vowels: IR",
+            "name":"Long vowels: IR",
+            "words":[
+               "nurse",
+               "stir",
+               "learn"
+            ]
+         },
+         "Long vowels: OR":{
+            "id":"Long vowels: OR",
+            "name":"Long vowels: OR",
+            "words":[
+               "law",
+               "war",
+               "thought"
+            ]
+         },
+         "Long vowels: U/OO":{
+            "id":"Long vowels: U/OO",
+            "name":"Long vowels: U/OO",
+            "words":[
+               "goose",
+               "boot",
+               "blue"
+            ]
+         },
+         "Short Vowels: A":{
+            "id":"Short Vowels: A",
+            "name":"Short Vowels: A",
+            "words":[
+               "act",
+               "gas",
+               "bat"
+            ]
+         },
+         "Short Vowels: E":{
+            "id":"Short Vowels: E",
+            "name":"Short Vowels: E",
+            "words":[
+               "beg",
+               "gem",
+               "wet"
+            ]
+         },
+         "Short Vowels: I":{
+            "id":"Short Vowels: I",
+            "name":"Short Vowels: I",
+            "words":[
+               "bin",
+               "sin",
+               "zip"
+            ]
+         },
+         "Short Vowels: O":{
+            "id":"Short Vowels: O",
+            "name":"Short Vowels: O",
+            "words":[
+               "cop",
+               "God",
+               "pot"
+            ]
+         },
+         "Short Vowels: U":{
+            "id":"Short Vowels: U",
+            "name":"Short Vowels: U",
+            "words":[
+               "bun",
+               "sun",
+               "rub"
+            ]
+         },
+         "Short vowels":{
+            "id":"Short vowels",
+            "name":"Short vowels",
+            "words":[
+               "kit",
+               "dress",
+               "trap",
+               "lot",
+               "foot",
+               "comma",
+               "strut"
+            ]
+         },
+         "j-diphthongs":{
+            "id":"j-diphthongs",
+            "name":"j-diphthongs",
+            "words":[
+               "fleece",
+               "face",
+               "price",
+               "choice"
+            ]
+         },
+         "r-liaison vowels":{
+            "id":"r-liaison vowels",
+            "name":"r-liaison vowels",
+            "words":[
+               "near",
+               "square",
+               "start",
+               "north",
+               "pure",
+               "nurse"
+            ]
+         },
+         "w-diphthongs":{
+            "id":"w-diphthongs",
+            "name":"w-diphthongs",
+            "words":[
+               "mouth",
+               "goat",
+               "goose"
+            ]
+         }
       }
-   },   "es-ES":{
+   },
+   "es-ES":{
       "langName":"Spanish (Spain)",
       "modules":{
          "es-ES_100":{
