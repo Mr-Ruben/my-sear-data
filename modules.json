@@ -1,5 +1,6 @@
 {
    "en-GB":{
+      
       "langName":"English (British English)",
       "modules":{
          "1.AEIOU":{
@@ -7,96 +8,33 @@
             "id":"1.AEIOU",
             "words":["A","E","I","O","U"]
          },
-      "2.BCDFG":{
-"name":"2. B C D F G",
-"id":"2.BCDFG",
-"words":["B","C","D","F","G"]
-},
-
-"3.HJKLM":{
-"name":"3. H J K L M",
-"id":"3.HJKLM",
-"words":["H","J","K","L","M"]
-},
-
-"4.NPQRS":{
-"name":"4. N P Q R S",
-"id":"4.NPQRS",
-"words":["N","P","Q","R","S"]
-},
-
-"5.TVWXYZ":{
-"name":"5. T V W X Y Z",
-"id":"5.TVWXYZ",
-"words":["T","V","W","X","Y","Z"]
-},
-      
-         "1. bush busy":{
-            "name":"1. bush busy",
-            "id":"1. bush busy",
-            "words":[
-               "bush",
-               "busy"]
+         "2.BCDFG":{
+            "name":"2. B C D F G",
+            "id":"2.BCDFG",
+            "words":["B","C","D","F","G"]
          },
-         "2. ae book bread":{
-            "name":"2. ae book bread",
-            "id":"2. ae book bread",
-            "words":[
-               "aesthetic",
-               "book",
-               "bread"          ]
+
+         "3.HJKLM":{
+            "name":"3. H J K L M",
+            "id":"3.HJKLM",
+            "words":["H","J","K","L","M"]
          },
-         "3.7words":{
-            "name":"3.7words",
-            "id":"3.7words",
-            "words":[
-               "aesthetic",
-               "book",
-               "bread",
-               "build",
-               "bury",
-               "bush",
-               "busy"]
-            
+
+         "4.NPQRS":{
+            "name":"4. N P Q R S",
+            "id":"4.NPQRS",
+            "words":["N","P","Q","R","S"]
          },
-         "4.Manymany":{
-            "name":"4.Manymany",
-            "id":"4.Manymany",
-            "words":[
-               "aesthetic",
-               "book",
-               "bread",
-               "build",
-               "bury",
-               "bush",
-               "busy",
-               "cat",
-               "could",
-               "egg",
-               "England",
-               "flood",
-               "friend",
-               "heifer",
-               "hymn",
-               "igloo",
-               "leopard",
-               "many",
-               "monkey",
-               "mug",
-               "orange",
-               "plaid",
-               "said",
-               "say",
-               "sieve",
-               "swan",
-               "trouble",
-               "wolf",
-               "women"
-            ]
-         }
+
+         "5.TVWXYZ":{
+            "name":"5. T V W X Y Z",
+            "id":"5.TVWXYZ",
+            "words":["T","V","W","X","Y","Z"]
+         },
+         
+
       }
-   },
-   "es-ES":{
+   },   "es-ES":{
       "langName":"Spanish (Spain)",
       "modules":{
          "es-ES_100":{
