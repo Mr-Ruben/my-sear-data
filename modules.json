@@ -3,7 +3,7 @@
       "langName":"English (British English)",
       "modules":{
          "1.AEIOU":{
-            "name":"1. A E I O U",
+            "name":"A E I O U",
             "id":"1.AEIOU",
             "words":[
                "A",
@@ -14,7 +14,7 @@
             ]
          },
          "2.BCDFG":{
-            "name":"2. B C D F G",
+            "name":"B C D F G",
             "id":"2.BCDFG",
             "words":[
                "B",
