@@ -268,17 +268,206 @@
    "es-ES":{
       "langName":"Spanish (Spain)",
       "modules":{
-         "es-ES_100":{
-            "name":"1. Basic",
-            "id":"es-ES_100"
+         "A B C D":{
+            "name":"A B C D",
+            "id":"A B C D",
+            "words":[
+               "A",
+               "B",
+               "C",
+               "D"
+            ]
          },
-         "es-ES_110":{
-            "name":"2. iddle",
-            "id":"es-ES_110"
+         "E F G H":{
+            "name":"E F G H",
+            "id":"E F G H",
+            "words":[
+               "E",
+               "F",
+               "G",
+               "H"
+            ]
          },
-         "es-ES_120":{
-            "name":"3. Advanced",
-            "id":"es-ES_120"
+         "I J K L":{
+            "name":"I J K L",
+            "id":"I J K L",
+            "words":[
+               "I",
+               "J",
+               "K",
+               "L"
+            ]
+         },
+         "M N \u00d1 O":{
+            "name":"M N \u00d1 O",
+            "id":"M N \u00d1 O",
+            "words":[
+               "M",
+               "N",
+               "\u00d1",
+               "O"
+            ]
+         },
+         "P Q R S":{
+            "name":"P Q R S",
+            "id":"P Q R S",
+            "words":[
+               "P",
+               "Q",
+               "R",
+               "S"
+            ]
+         },
+         "T U V W":{
+            "name":"T U V W",
+            "id":"T U V W",
+            "words":[
+               "T",
+               "U",
+               "V",
+               "W"
+            ]
+         },
+         "X Y Z":{
+            "name":"X Y Z",
+            "id":"X Y Z",
+            "words":[
+               "X",
+               "Y",
+               "Z"
+            ]
+         },
+         "Diptongos decrecientes":{
+            "name":"Diptongos decrecientes",
+            "id":"Diptongos decrecientes",
+            "words":[
+               "rey",
+               "aire",
+               "hoy",
+               "muy",
+               "neutro"
+            ]
+         },
+         "Diptongos crecientes":{
+            "name":"Diptongos crecientes",
+            "id":"Diptongos crecientes",
+            "words":[
+               "tierra",
+               "radio",
+               "viuda",
+               "fuego",
+               "cuadro",
+               "cuota"
+            ]
+         },
+         "Consonantes nasales":{
+            "name":"Consonantes nasales",
+            "id":"Consonantes nasales",
+            "words":[
+               "enc\u00eda",
+               "antes",
+               "c\u00f3nyuge"
+            ]
+         },
+         "Consonantes laterales":{
+            "name":"Consonantes laterales",
+            "id":"Consonantes laterales",
+            "words":[
+               "alzar",
+               "alto"
+            ]
+         },
+         "Consonantes bilabiales":{
+            "name":"Consonantes bilabiales",
+            "id":"Consonantes bilabiales",
+            "words":[
+               "bondad",
+               "padre",
+               "amar",
+               "mismo",
+               "haba"
+            ]
+         },
+         "Consonantes labiodentales":{
+            "name":"Consonantes labiodentales",
+            "id":"Consonantes labiodentales",
+            "words":[
+               "confuso",
+               "vida"
+            ]
+         },
+         "Consonantes interdentales":{
+            "name":"Consonantes interdentales",
+            "id":"Consonantes interdentales",
+            "words":[
+               "rueda",
+               "verdad",
+               "calzado"
+            ]
+         },
+         "Consonantes dentales":{
+            "name":"Consonantes dentales",
+            "id":"Consonantes dentales",
+            "words":[
+               "ducho",
+               "tomar",
+               "desde",
+               "taza",
+               "falda"
+            ]
+         },
+         "Consonantes alveolares":{
+            "name":"Consonantes alveolares",
+            "id":"Consonantes alveolares",
+            "words":[
+               "mano",
+               "asno",
+               "rosa",
+               "casa",
+               "luna",
+               "muslo",
+               "hora",
+               "carro",
+               "color",
+               "trigo",
+               "perro"
+            ]
+         },
+         "Consonantes prepalatales":{
+            "name":"Consonantes prepalatales",
+            "id":"Consonantes prepalatales",
+            "words":[
+               "a\u00f1o",
+               "mucho",
+               "mayo",
+               "nieto"
+            ]
+         },
+         "Consonantes postpalatales":{
+            "name":"Consonantes postpalatales",
+            "id":"Consonantes postpalatales",
+            "words":[
+               "guitarra",
+               "quimera"
+            ]
+         },
+         "Consonantes velares":{
+            "name":"Consonantes velares",
+            "id":"Consonantes velares",
+            "words":[
+               "casa",
+               "nunca",
+               "rogar",
+               "hueso"
+            ]
+         },
+         "Consonantes uvulares":{
+            "name":"Consonantes uvulares",
+            "id":"Consonantes uvulares",
+            "words":[
+               "Juan",
+               "aguja"
+            ]
          }
       }
    }
