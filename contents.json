@@ -37049,7 +37049,7 @@
             ]
         }
     },
-    "es-ES": {
+"es-ES": {
         "mayo": {
             "word": "mayo",
             "ipa": "/ˈma.ʝo/",
@@ -53164,8 +53164,8 @@
         },
         "A": {
             "word": "A",
-            "ipa": "/a",
-            "trueSounds":/ [
+            "ipa": "/a/",
+            "trueSounds": [
                 {
                     "id": "A_es-ES_Lucia",
                     "soundFile": "A_es-ES_Lucia.mp3",
@@ -54380,8 +54380,8 @@
         },
         "E": {
             "word": "E",
-            "ipa": "/e",
-            "trueSounds":/ [
+            "ipa": "/e/",
+            "trueSounds": [
                 {
                     "id": "E_es-ES_Lucia",
                     "soundFile": "E_es-ES_Lucia.mp3",
@@ -55596,8 +55596,8 @@
         },
         "I": {
             "word": "I",
-            "ipa": "/i",
-            "trueSounds":/ [
+            "ipa": "/i/",
+            "trueSounds": [
                 {
                     "id": "I_es-ES_Lucia",
                     "soundFile": "I_es-ES_Lucia.mp3",
@@ -57724,8 +57724,8 @@
         },
         "O": {
             "word": "O",
-            "ipa": "/o",
-            "trueSounds":/ [
+            "ipa": "/o/",
+            "trueSounds": [
                 {
                     "id": "O_es-ES_Lucia",
                     "soundFile": "O_es-ES_Lucia.mp3",
@@ -59548,8 +59548,8 @@
         },
         "U": {
             "word": "U",
-            "ipa": "/u",
-            "trueSounds":/ [
+            "ipa": "/u/",
+            "trueSounds": [
                 {
                     "id": "U_es-ES_Lucia",
                     "soundFile": "U_es-ES_Lucia.mp3",
