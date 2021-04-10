@@ -2,9 +2,9 @@
    "en-GB":{
       "langName":"English (British English)",
       "modules":{
-         "1.AEIOU":{
+         "enGB.AEIOU":{
             "name":"A E I O U",
-            "id":"1.AEIOU",
+            "id":"enGB.AEIOU",
             "words":[
                "A",
                "E",
@@ -13,9 +13,9 @@
                "U"
             ]
          },
-         "2.BCDFG":{
+         "enGB.BCDFG":{
             "name":"B C D F G",
-            "id":"2.BCDFG",
+            "id":"enGB.BCDFG",
             "words":[
                "B",
                "C",
