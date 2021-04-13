@@ -2,9 +2,9 @@
    "en-GB":{
       "langName":"English (British English)",
       "modules":{
-         "enGB.AEIOU":{
+         "AEIOU":{
             "name":"A E I O U",
-            "id":"enGB.AEIOU",
+            "id":"AEIOU",
             "words":[
                "A",
                "E",
@@ -13,9 +13,9 @@
                "U"
             ]
          },
-         "enGB.BCDFG":{
+         "BCDFG":{
             "name":"B C D F G",
-            "id":"enGB.BCDFG",
+            "id":"BCDFG",
             "words":[
                "B",
                "C",
@@ -24,9 +24,9 @@
                "G"
             ]
          },
-         "3.HJKLM":{
+         "HJKLM":{
             "name":"H J K L M",
-            "id":"3.HJKLM",
+            "id":"HJKLM",
             "words":[
                "H",
                "J",
@@ -35,9 +35,9 @@
                "M"
             ]
          },
-         "4.NPQRS":{
+         "NPQRS":{
             "name":"N P Q R S",
-            "id":"4.NPQRS",
+            "id":"NPQRS",
             "words":[
                "N",
                "P",
@@ -46,9 +46,9 @@
                "S"
             ]
          },
-         "5.TVWXYZ":{
+         "TVWXYZ":{
             "name":"T V W X Y Z",
-            "id":"5.TVWXYZ",
+            "id":"TVWXYZ",
             "words":[
                "T",
                "V",
