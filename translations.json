@@ -1,5 +1,5 @@
 {
-    "siteLanguages": {
+    "siteLanguages": 
          [
             {
                 "comment": "English",
@@ -62,7 +62,7 @@
                 "text": "サイトの言語： 日本語"
             }
         ]
-    },
+    ,
     "translation": {
         "en": {
             "IHaveAccount": "I already have an account",
