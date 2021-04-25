@@ -1,476 +1,1223 @@
 {
-   "en-GB":{
-      "langName":"English (British English)",
-      "modules":{
-         "AEIOU":{
-            "name":"A E I O U",
-            "id":"AEIOU",
-            "words":[
-               "A",
-               "E",
-               "I",
-               "O",
-               "U"
-            ]
-         },
-         "BCDFG":{
-            "name":"B C D F G",
-            "id":"BCDFG",
-            "words":[
-               "B",
-               "C",
-               "D",
-               "F",
-               "G"
-            ]
-         },
-         "HJKLM":{
-            "name":"H J K L M",
-            "id":"HJKLM",
-            "words":[
-               "H",
-               "J",
-               "K",
-               "L",
-               "M"
-            ]
-         },
-         "NPQRS":{
-            "name":"N P Q R S",
-            "id":"NPQRS",
-            "words":[
-               "N",
-               "P",
-               "Q",
-               "R",
-               "S"
-            ]
-         },
-         "TVWXYZ":{
-            "name":"T V W X Y Z",
-            "id":"TVWXYZ",
-            "words":[
-               "T",
-               "V",
-               "W",
-               "X",
-               "Y",
-               "Z"
-            ]
-         },
-         "Diphthong:  /aɪ/":{
-            "id":"Diphthong:  /aɪ/",
-            "name":"Diphthong:  /aɪ/",
-            "words":[
-               "sky",
-               "buy",
-               "cry"
-            ]
-         },
-         "Diphthong:  /aʊ/":{
-            "id":"Diphthong:  /aʊ/",
-            "name":"Diphthong:  /aʊ/",
-            "words":[
-               "mouth",
-               "now",
-               "fowl"
-            ]
-         },
-         "Diphthong:  /eə/":{
-            "id":"Diphthong:  /eə/",
-            "name":"Diphthong:  /eə/",
-            "words":[
-               "bear",
-               "pair",
-               "hair"
-            ]
-         },
-         "Diphthong:  /eɪ/":{
-            "id":"Diphthong:  /eɪ/",
-            "name":"Diphthong:  /eɪ/",
-            "words":[
-               "day",
-               "pay",
-               "say"
-            ]
-         },
-         "Diphthong:  /ɔɪ/":{
-            "id":"Diphthong:  /ɔɪ/",
-            "name":"Diphthong:  /ɔɪ/",
-            "words":[
-               "boy",
-               "toy",
-               "coy"
-            ]
-         },
-         "Diphthong:  /əʊ/":{
-            "id":"Diphthong:  /əʊ/",
-            "name":"Diphthong:  /əʊ/",
-            "words":[
-               "boat",
-               "no",
-               "show"
-            ]
-         },
-         "Diphthong:  /ɪə/":{
-            "id":"Diphthong:  /ɪə/",
-            "name":"Diphthong:  /ɪə/",
-            "words":[
-               "beer",
-               "pier",
-               "hear"
-            ]
-         },
-         "Diphthong:  /ʊə/":{
-            "id":"Diphthong:  /ʊə/",
-            "name":"Diphthong:  /ʊə/",
-            "words":[
-               "tour",
-               "poor"
-            ]
-         },
-         "Long vowels: AR":{
-            "id":"Long vowels: AR",
-            "name":"Long vowels: AR",
-            "words":[
-               "father",
-               "start",
-               "hard"
-            ]
-         },
-         "enGBLong vowels: E":{
-            "id":"enGBLong vowels: E",
-            "name":"Long vowels: E",
-            "words":[
-               "eat",
-               "meet",
-               "fleece"
-            ]
-         },
-         "Long vowels: IR":{
-            "id":"Long vowels: IR",
-            "name":"Long vowels: IR",
-            "words":[
-               "nurse",
-               "stir",
-               "learn"
-            ]
-         },
-         "Long vowels: OR":{
-            "id":"Long vowels: OR",
-            "name":"Long vowels: OR",
-            "words":[
-               "law",
-               "war",
-               "thought"
-            ]
-         },
-         "Long vowels: U/OO":{
-            "id":"Long vowels: U/OO",
-            "name":"Long vowels: U/OO",
-            "words":[
-               "goose",
-               "boot",
-               "blue"
-            ]
-         },
-         "Short Vowels: A":{
-            "id":"Short Vowels: A",
-            "name":"Short Vowels: A",
-            "words":[
-               "act",
-               "gas",
-               "bat"
-            ]
-         },
-         "Short Vowels: E":{
-            "id":"Short Vowels: E",
-            "name":"Short Vowels: E",
-            "words":[
-               "beg",
-               "gem",
-               "wet"
-            ]
-         },
-         "Short Vowels: I":{
-            "id":"Short Vowels: I",
-            "name":"Short Vowels: I",
-            "words":[
-               "bin",
-               "sin",
-               "zip"
-            ]
-         },
-         "Short Vowels: O":{
-            "id":"Short Vowels: O",
-            "name":"Short Vowels: O",
-            "words":[
-               "cop",
-               "God",
-               "pot"
-            ]
-         },
-         "Short Vowels: U":{
-            "id":"Short Vowels: U",
-            "name":"Short Vowels: U",
-            "words":[
-               "bun",
-               "sun",
-               "rub"
-            ]
-         },
-         "Short vowels":{
-            "id":"Short vowels",
-            "name":"Short vowels",
-            "words":[
-               "kit",
-               "dress",
-               "trap",
-               "lot",
-               "foot",
-               "comma",
-               "strut"
-            ]
-         },
-         "j-diphthongs":{
-            "id":"j-diphthongs",
-            "name":"j-diphthongs",
-            "words":[
-               "fleece",
-               "face",
-               "price",
-               "voice",
-               "flight",
-               "pray"
-            ]
-         },
-         "r-liaison vowels":{
-            "id":"r-liaison vowels",
-            "name":"r-liaison vowels",
-            "words":[
-               "near",
-               "square",
-               "start",
-               "north",
-               "pure",
-               "nurse"
-            ]
-         },
-         "w-diphthongs":{
-            "id":"w-diphthongs",
-            "name":"w-diphthongs",
-            "words":[
-               "mouth",
-               "goat",
-               "goose"
-            ]
-         }
-      }
-   },
-   "es-ES":{
-      "langName":"Spanish (Spain)",
-      "modules":{
-         "A B C D":{
-            "name":"A B C D",
-            "id":"A B C D",
-            "words":[
-               "A",
-               "B",
-               "C",
-               "D"
-            ]
-         },
-         "E F G H":{
-            "name":"E F G H",
-            "id":"E F G H",
-            "words":[
-               "E",
-               "F",
-               "G",
-               "H"
-            ]
-         },
-         "I J K L":{
-            "name":"I J K L",
-            "id":"I J K L",
-            "words":[
-               "I",
-               "J",
-               "K",
-               "L"
-            ]
-         },
-         "M N \u00d1 O":{
-            "name":"M N \u00d1 O",
-            "id":"M N \u00d1 O",
-            "words":[
-               "M",
-               "N",
-               "\u00d1",
-               "O"
-            ]
-         },
-         "P Q R S":{
-            "name":"P Q R S",
-            "id":"P Q R S",
-            "words":[
-               "P",
-               "Q",
-               "R",
-               "S"
-            ]
-         },
-         "T U V W":{
-            "name":"T U V W",
-            "id":"T U V W",
-            "words":[
-               "T",
-               "U",
-               "V",
-               "W"
-            ]
-         },
-         "X Y Z":{
-            "name":"X Y Z",
-            "id":"X Y Z",
-            "words":[
-               "X",
-               "Y",
-               "Z"
-            ]
-         },
-         "Diptongos decrecientes":{
-            "name":"Diptongos decrecientes",
-            "id":"Diptongos decrecientes",
-            "words":[
-               "rey",
-               "aire",
-               "hoy",
-               "muy",
-               "neutro"
-            ]
-         },
-         "Diptongos crecientes":{
-            "name":"Diptongos crecientes",
-            "id":"Diptongos crecientes",
-            "words":[
-               "tierra",
-               "radio",
-               "viuda",
-               "fuego",
-               "cuadro",
-               "cuota"
-            ]
-         },
-         "Consonantes nasales":{
-            "name":"Consonantes nasales",
-            "id":"Consonantes nasales",
-            "words":[
-               "enc\u00eda",
-               "antes",
-               "c\u00f3nyuge"
-            ]
-         },
-         "Consonantes laterales":{
-            "name":"Consonantes laterales",
-            "id":"Consonantes laterales",
-            "words":[
-               "alzar",
-               "alto"
-            ]
-         },
-         "Consonantes bilabiales":{
-            "name":"Consonantes bilabiales",
-            "id":"Consonantes bilabiales",
-            "words":[
-               "bondad",
-               "padre",
-               "amar",
-               "mismo",
-               "haba"
-            ]
-         },
-         "Consonantes labiodentales":{
-            "name":"Consonantes labiodentales",
-            "id":"Consonantes labiodentales",
-            "words":[
-               "confuso",
-               "vida"
-            ]
-         },
-         "Consonantes interdentales":{
-            "name":"Consonantes interdentales",
-            "id":"Consonantes interdentales",
-            "words":[
-               "rueda",
-               "verdad",
-               "calzado"
-            ]
-         },
-         "Consonantes dentales":{
-            "name":"Consonantes dentales",
-            "id":"Consonantes dentales",
-            "words":[
-               "ducho",
-               "tomar",
-               "desde",
-               "taza",
-               "falda"
-            ]
-         },
-         "Consonantes alveolares":{
-            "name":"Consonantes alveolares",
-            "id":"Consonantes alveolares",
-            "words":[
-               "mano",
-               "asno",
-               "rosa",
-               "casa",
-               "luna",
-               "muslo",
-               "hora",
-               "carro",
-               "color",
-               "trigo",
-               "perro"
-            ]
-         },
-         "Consonantes prepalatales":{
-            "name":"Consonantes prepalatales",
-            "id":"Consonantes prepalatales",
-            "words":[
-               "a\u00f1o",
-               "mucho",
-               "mayo",
-               "nieto"
-            ]
-         },
-         "Consonantes postpalatales":{
-            "name":"Consonantes postpalatales",
-            "id":"Consonantes postpalatales",
-            "words":[
-               "guitarra",
-               "quimera"
-            ]
-         },
-         "Consonantes velares":{
-            "name":"Consonantes velares",
-            "id":"Consonantes velares",
-            "words":[
-               "casa",
-               "nunca",
-               "rogar",
-               "hueso"
-            ]
-         },
-         "Consonantes uvulares":{
-            "name":"Consonantes uvulares",
-            "id":"Consonantes uvulares",
-            "words":[
-               "Juan",
-               "aguja"
-            ]
-         }
-      }
-   }
+    "en-GB": {
+        "langName": "English (British English)",
+        "modules": {
+            "AEIOU": {
+                "name": "A E I O U",
+                "id": "AEIOU",
+                "words": [
+                    "A",
+                    "E",
+                    "I",
+                    "O",
+                    "U"
+                ]
+            },
+            "BCDFG": {
+                "name": "B C D F G",
+                "id": "BCDFG",
+                "words": [
+                    "B",
+                    "C",
+                    "D",
+                    "F",
+                    "G"
+                ]
+            },
+            "HJKLM": {
+                "name": "H J K L M",
+                "id": "HJKLM",
+                "words": [
+                    "H",
+                    "J",
+                    "K",
+                    "L",
+                    "M"
+                ]
+            },
+            "NPQRS": {
+                "name": "N P Q R S",
+                "id": "NPQRS",
+                "words": [
+                    "N",
+                    "P",
+                    "Q",
+                    "R",
+                    "S"
+                ]
+            },
+            "TVWXYZ": {
+                "name": "T V W X Y Z",
+                "id": "TVWXYZ",
+                "words": [
+                    "T",
+                    "V",
+                    "W",
+                    "X",
+                    "Y",
+                    "Z"
+                ]
+            },
+            "Diphthong:  /aɪ/": {
+                "id": "Diphthong:  /aɪ/",
+                "name": "Diphthong:  /aɪ/",
+                "words": [
+                    "sky",
+                    "buy",
+                    "cry"
+                ]
+            },
+            "Diphthong:  /aʊ/": {
+                "id": "Diphthong:  /aʊ/",
+                "name": "Diphthong:  /aʊ/",
+                "words": [
+                    "mouth",
+                    "now",
+                    "fowl"
+                ]
+            },
+            "Diphthong:  /eə/": {
+                "id": "Diphthong:  /eə/",
+                "name": "Diphthong:  /eə/",
+                "words": [
+                    "bear",
+                    "pair",
+                    "hair"
+                ]
+            },
+            "Diphthong:  /eɪ/": {
+                "id": "Diphthong:  /eɪ/",
+                "name": "Diphthong:  /eɪ/",
+                "words": [
+                    "day",
+                    "pay",
+                    "say"
+                ]
+            },
+            "Diphthong:  /ɔɪ/": {
+                "id": "Diphthong:  /ɔɪ/",
+                "name": "Diphthong:  /ɔɪ/",
+                "words": [
+                    "boy",
+                    "toy",
+                    "coy"
+                ]
+            },
+            "Diphthong:  /əʊ/": {
+                "id": "Diphthong:  /əʊ/",
+                "name": "Diphthong:  /əʊ/",
+                "words": [
+                    "boat",
+                    "no",
+                    "show"
+                ]
+            },
+            "Diphthong:  /ɪə/": {
+                "id": "Diphthong:  /ɪə/",
+                "name": "Diphthong:  /ɪə/",
+                "words": [
+                    "beer",
+                    "pier",
+                    "hear"
+                ]
+            },
+            "Diphthong:  /ʊə/": {
+                "id": "Diphthong:  /ʊə/",
+                "name": "Diphthong:  /ʊə/",
+                "words": [
+                    "tour",
+                    "poor"
+                ]
+            },
+            "Long vowels: AR": {
+                "id": "Long vowels: AR",
+                "name": "Long vowels: AR",
+                "words": [
+                    "father",
+                    "start",
+                    "hard"
+                ]
+            },
+            "enGBLong vowels: E": {
+                "id": "enGBLong vowels: E",
+                "name": "Long vowels: E",
+                "words": [
+                    "eat",
+                    "meet",
+                    "fleece"
+                ]
+            },
+            "Long vowels: IR": {
+                "id": "Long vowels: IR",
+                "name": "Long vowels: IR",
+                "words": [
+                    "nurse",
+                    "stir",
+                    "learn"
+                ]
+            },
+            "Long vowels: OR": {
+                "id": "Long vowels: OR",
+                "name": "Long vowels: OR",
+                "words": [
+                    "law",
+                    "war",
+                    "thought"
+                ]
+            },
+            "Long vowels: U/OO": {
+                "id": "Long vowels: U/OO",
+                "name": "Long vowels: U/OO",
+                "words": [
+                    "goose",
+                    "boot",
+                    "blue"
+                ]
+            },
+            "Short Vowels: A": {
+                "id": "Short Vowels: A",
+                "name": "Short Vowels: A",
+                "words": [
+                    "act",
+                    "gas",
+                    "bat"
+                ]
+            },
+            "Short Vowels: E": {
+                "id": "Short Vowels: E",
+                "name": "Short Vowels: E",
+                "words": [
+                    "beg",
+                    "gem",
+                    "wet"
+                ]
+            },
+            "Short Vowels: I": {
+                "id": "Short Vowels: I",
+                "name": "Short Vowels: I",
+                "words": [
+                    "bin",
+                    "sin",
+                    "zip"
+                ]
+            },
+            "Short Vowels: O": {
+                "id": "Short Vowels: O",
+                "name": "Short Vowels: O",
+                "words": [
+                    "cop",
+                    "God",
+                    "pot"
+                ]
+            },
+            "Short Vowels: U": {
+                "id": "Short Vowels: U",
+                "name": "Short Vowels: U",
+                "words": [
+                    "bun",
+                    "sun",
+                    "rub"
+                ]
+            },
+            "Short vowels": {
+                "id": "Short vowels",
+                "name": "Short vowels",
+                "words": [
+                    "kit",
+                    "dress",
+                    "trap",
+                    "lot",
+                    "foot",
+                    "comma",
+                    "strut"
+                ]
+            },
+            "j-diphthongs": {
+                "id": "j-diphthongs",
+                "name": "j-diphthongs",
+                "words": [
+                    "fleece",
+                    "face",
+                    "price",
+                    "voice",
+                    "flight",
+                    "pray"
+                ]
+            },
+            "r-liaison vowels": {
+                "id": "r-liaison vowels",
+                "name": "r-liaison vowels",
+                "words": [
+                    "near",
+                    "square",
+                    "start",
+                    "north",
+                    "pure",
+                    "nurse"
+                ]
+            },
+            "w-diphthongs": {
+                "id": "w-diphthongs",
+                "name": "w-diphthongs",
+                "words": [
+                    "mouth",
+                    "goat",
+                    "goose"
+                ]
+            }
+        }
+    },
+    "es-ES": {
+        "langName": "Spanish (Spain)",
+        "modules": {
+            "A B C D": {
+                "name": "A B C D",
+                "id": "A B C D",
+                "words": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            "E F G H": {
+                "name": "E F G H",
+                "id": "E F G H",
+                "words": [
+                    "E",
+                    "F",
+                    "G",
+                    "H"
+                ]
+            },
+            "I J K L": {
+                "name": "I J K L",
+                "id": "I J K L",
+                "words": [
+                    "I",
+                    "J",
+                    "K",
+                    "L"
+                ]
+            },
+            "M N Ñ O": {
+                "name": "M N Ñ O",
+                "id": "M N Ñ O",
+                "words": [
+                    "M",
+                    "N",
+                    "Ñ",
+                    "O"
+                ]
+            },
+            "P Q R S": {
+                "name": "P Q R S",
+                "id": "P Q R S",
+                "words": [
+                    "P",
+                    "Q",
+                    "R",
+                    "S"
+                ]
+            },
+            "T U V W": {
+                "name": "T U V W",
+                "id": "T U V W",
+                "words": [
+                    "T",
+                    "U",
+                    "V",
+                    "W"
+                ]
+            },
+            "X Y Z": {
+                "name": "X Y Z",
+                "id": "X Y Z",
+                "words": [
+                    "X",
+                    "Y",
+                    "Z"
+                ]
+            },
+            "Diptongos decrecientes": {
+                "name": "Diptongos decrecientes",
+                "id": "Diptongos decrecientes",
+                "words": [
+                    "rey",
+                    "aire",
+                    "hoy",
+                    "muy",
+                    "neutro"
+                ]
+            },
+            "Diptongos crecientes": {
+                "name": "Diptongos crecientes",
+                "id": "Diptongos crecientes",
+                "words": [
+                    "tierra",
+                    "radio",
+                    "viuda",
+                    "fuego",
+                    "cuadro",
+                    "cuota"
+                ]
+            },
+            "Consonantes nasales": {
+                "name": "Consonantes nasales",
+                "id": "Consonantes nasales",
+                "words": [
+                    "encía",
+                    "antes",
+                    "cónyuge"
+                ]
+            },
+            "Consonantes laterales": {
+                "name": "Consonantes laterales",
+                "id": "Consonantes laterales",
+                "words": [
+                    "alzar",
+                    "alto"
+                ]
+            },
+            "Consonantes bilabiales": {
+                "name": "Consonantes bilabiales",
+                "id": "Consonantes bilabiales",
+                "words": [
+                    "bondad",
+                    "padre",
+                    "amar",
+                    "mismo",
+                    "haba"
+                ]
+            },
+            "Consonantes labiodentales": {
+                "name": "Consonantes labiodentales",
+                "id": "Consonantes labiodentales",
+                "words": [
+                    "confuso",
+                    "vida"
+                ]
+            },
+            "Consonantes interdentales": {
+                "name": "Consonantes interdentales",
+                "id": "Consonantes interdentales",
+                "words": [
+                    "rueda",
+                    "verdad",
+                    "calzado"
+                ]
+            },
+            "Consonantes dentales": {
+                "name": "Consonantes dentales",
+                "id": "Consonantes dentales",
+                "words": [
+                    "ducho",
+                    "tomar",
+                    "desde",
+                    "taza",
+                    "falda"
+                ]
+            },
+            "Consonantes alveolares": {
+                "name": "Consonantes alveolares",
+                "id": "Consonantes alveolares",
+                "words": [
+                    "mano",
+                    "asno",
+                    "rosa",
+                    "casa",
+                    "luna",
+                    "muslo",
+                    "hora",
+                    "carro",
+                    "color",
+                    "trigo",
+                    "perro"
+                ]
+            },
+            "Consonantes prepalatales": {
+                "name": "Consonantes prepalatales",
+                "id": "Consonantes prepalatales",
+                "words": [
+                    "año",
+                    "mucho",
+                    "mayo",
+                    "nieto"
+                ]
+            },
+            "Consonantes postpalatales": {
+                "name": "Consonantes postpalatales",
+                "id": "Consonantes postpalatales",
+                "words": [
+                    "guitarra",
+                    "quimera"
+                ]
+            },
+            "Consonantes velares": {
+                "name": "Consonantes velares",
+                "id": "Consonantes velares",
+                "words": [
+                    "casa",
+                    "nunca",
+                    "rogar",
+                    "hueso"
+                ]
+            },
+            "Consonantes uvulares": {
+                "name": "Consonantes uvulares",
+                "id": "Consonantes uvulares",
+                "words": [
+                    "Juan",
+                    "aguja"
+                ]
+            }
+        }
+    },
+    "fr-FR": {
+        "langName": "Spanish (Spain)",
+        "modules":  {
+            "Les voyelles orales: [i]": {
+                "name": "Les voyelles orales: [i]",
+                "id": "Les voyelles orales: [i]",
+                "words": []
+            },
+            "Les voyelles orales: [e]": {
+                "name": "Les voyelles orales: [e]",
+                "id": "Les voyelles orales: [e]",
+                "words": [
+                    "et",
+                    "avez",
+                    "préféré",
+                    "aller",
+                    "des"
+                ]
+            },
+            "Les voyelles orales: [ɛ]": {
+                "name": "Les voyelles orales: [ɛ]",
+                "id": "Les voyelles orales: [ɛ]",
+                "words": [
+                    "est",
+                    "mais",
+                    "être",
+                    "appelle"
+                ]
+            },
+            "Les voyelles orales: [a][ɑ]": {
+                "name": "Les voyelles orales: [a][ɑ]",
+                "id": "Les voyelles orales: [a][ɑ]",
+                "words": [
+                    "âge",
+                    "bas"
+                ]
+            },
+            "Les voyelles orales: [y]": {
+                "name": "Les voyelles orales: [y]",
+                "id": "Les voyelles orales: [y]",
+                "words": [
+                    "sur",
+                    "sûr",
+                    "eu"
+                ]
+            },
+            "Les voyelles orales: [ø][ə]": {
+                "name": "Les voyelles orales: [ø][ə]",
+                "id": "Les voyelles orales: [ø][ə]",
+                "words": [
+                    "veux",
+                    "deux",
+                    "mercredi"
+                ]
+            },
+            "Les voyelles orales: [œ]": {
+                "name": "Les voyelles orales: [œ]",
+                "id": "Les voyelles orales: [œ]",
+                "words": [
+                    "neuf",
+                    "beurre",
+                    "seul"
+                ]
+            },
+            "Les voyelles orales: [u]": {
+                "name": "Les voyelles orales: [u]",
+                "id": "Les voyelles orales: [u]",
+                "words": [
+                    "où",
+                    "vous",
+                    "coût",
+                    "loup"
+                ]
+            },
+            "Les voyelles orales: [o]": {
+                "name": "Les voyelles orales: [o]",
+                "id": "Les voyelles orales: [o]",
+                "words": [
+                    "au",
+                    "beau",
+                    "tôt",
+                    "pot"
+                ]
+            },
+            "Les voyelles orales: [ɔ]": {
+                "name": "Les voyelles orales: [ɔ]",
+                "id": "Les voyelles orales: [ɔ]",
+                "words": [
+                    "os",
+                    "bol"
+                ]
+            },
+            "Les voyelles nasales: [ɛ̃] [œ̃]": {
+                "name": "Les voyelles nasales: [ɛ̃] [œ̃]",
+                "id": "Les voyelles nasales: [ɛ̃] [œ̃]",
+                "words": [
+                    "vin",
+                    "impossible",
+                    "pain",
+                    "essaim",
+                    "teindre",
+                    "un",
+                    "humble",
+                    "parfum"
+                ]
+            },
+            "Les voyelles nasales: [ɑ̃]": {
+                "name": "Les voyelles nasales: [ɑ̃]",
+                "id": "Les voyelles nasales: [ɑ̃]",
+                "words": [
+                    "an",
+                    "ampoule",
+                    "encre"
+                ]
+            },
+            "Les voyelles nasales: [ɔ̃]": {
+                "name": "Les voyelles nasales: [ɔ̃]",
+                "id": "Les voyelles nasales: [ɔ̃]",
+                "words": [
+                    "on",
+                    "ombre",
+                    "tronc",
+                    "maison"
+                ]
+            },
+            "Les consonnes: [p]": {
+                "name": "Les consonnes: [p]",
+                "id": "Les consonnes: [p]",
+                "words": [
+                    "pipe",
+                    "cap",
+                    "appel"
+                ]
+            },
+            "Les consonnes: [b]": {
+                "name": "Les consonnes: [b]",
+                "id": "Les consonnes: [b]",
+                "words": [
+                    "bal",
+                    "bébé",
+                    "abbé"
+                ]
+            },
+            "Les consonnes: [m]": {
+                "name": "Les consonnes: [m]",
+                "id": "Les consonnes: [m]",
+                "words": [
+                    "mamie",
+                    "âme",
+                    "homme"
+                ]
+            },
+            "Les consonnes: [t]": {
+                "name": "Les consonnes: [t]",
+                "id": "Les consonnes: [t]",
+                "words": [
+                    "tarte",
+                    "patte",
+                    "théorie"
+                ]
+            },
+            "Les consonnes: [d]": {
+                "name": "Les consonnes: [d]",
+                "id": "Les consonnes: [d]",
+                "words": [
+                    "mode",
+                    "addition"
+                ]
+            },
+            "Les consonnes: [n]": {
+                "name": "Les consonnes: [n]",
+                "id": "Les consonnes: [n]",
+                "words": [
+                    "nous",
+                    "âne",
+                    "tonne"
+                ]
+            },
+            "Les consonnes: [ɲ]": {
+                "name": "Les consonnes: [ɲ]",
+                "id": "Les consonnes: [ɲ]",
+                "words": [
+                    "signature"
+                ]
+            },
+            "Les consonnes: [k]": {
+                "name": "Les consonnes: [k]",
+                "id": "Les consonnes: [k]",
+                "words": [
+                    "casse",
+                    "sac",
+                    "paquet"
+                ]
+            },
+            "Les consonnes: [g]": {
+                "name": "Les consonnes: [g]",
+                "id": "Les consonnes: [g]",
+                "words": [
+                    "gaffe",
+                    "bague"
+                ]
+            },
+            "Les consonnes: [ŋ]": {
+                "name": "Les consonnes: [ŋ]",
+                "id": "Les consonnes: [ŋ]",
+                "words": [
+                    "camping"
+                ]
+            },
+            "Les consonnes: [f]": {
+                "name": "Les consonnes: [f]",
+                "id": "Les consonnes: [f]",
+                "words": [
+                    "fou",
+                    "bof",
+                    "affaire",
+                    "photo",
+                    "maçon",
+                    "nation"
+                ]
+            },
+            "Les consonnes: [v]": {
+                "name": "Les consonnes: [v]",
+                "id": "Les consonnes: [v]",
+                "words": [
+                    "va",
+                    "cave",
+                    "avril"
+                ]
+            },
+            "Les consonnes: [l]": {
+                "name": "Les consonnes: [l]",
+                "id": "Les consonnes: [l]",
+                "words": [
+                    "lit",
+                    "halle"
+                ]
+            },
+            "Les consonnes: [s]": {
+                "name": "Les consonnes: [s]",
+                "id": "Les consonnes: [s]",
+                "words": [
+                    "si",
+                    "casse",
+                    "cerise"
+                ]
+            },
+            "Les consonnes: [z]": {
+                "name": "Les consonnes: [z]",
+                "id": "Les consonnes: [z]",
+                "words": [
+                    "zoo",
+                    "gaz",
+                    "base"
+                ]
+            },
+            "Les consonnes: [ ʃ]": {
+                "name": "Les consonnes: [ ʃ]",
+                "id": "Les consonnes: [ ʃ]",
+                "words": [
+                    "chat",
+                    "tache",
+                    "achat"
+                ]
+            },
+            "Les consonnes: [ʒ]": {
+                "name": "Les consonnes: [ʒ]",
+                "id": "Les consonnes: [ʒ]",
+                "words": [
+                    "jeu",
+                    "tige",
+                    "âgé"
+                ]
+            },
+            "Les consonnes: [ʀ]": {
+                "name": "Les consonnes: [ʀ]",
+                "id": "Les consonnes: [ʀ]",
+                "words": [
+                    "rat",
+                    "car",
+                    "carré"
+                ]
+            },
+            "Les consonnes: [j]": {
+                "name": "Les consonnes: [j]",
+                "id": "Les consonnes: [j]",
+                "words": [
+                    "lié",
+                    "travail",
+                    "sommeil"
+                ]
+            },
+            "Les consonnes: [ɥ]": {
+                "name": "Les consonnes: [ɥ]",
+                "id": "Les consonnes: [ɥ]",
+                "words": [
+                    "huit"
+                ]
+            },
+            "Les consonnes: [w]": {
+                "name": "Les consonnes: [w]",
+                "id": "Les consonnes: [w]",
+                "words": [
+                    "oui",
+                    "moi"
+                ]
+            },
+            "A B C D": {
+                "name": "A B C D",
+                "id": "A B C D",
+                "words": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            "E F G H": {
+                "name": "E F G H",
+                "id": "E F G H",
+                "words": [
+                    "E",
+                    "F",
+                    "G",
+                    "H"
+                ]
+            },
+            "I J K L": {
+                "name": "I J K L",
+                "id": "I J K L",
+                "words": [
+                    "I",
+                    "J",
+                    "K",
+                    "L"
+                ]
+            },
+            "M N O P": {
+                "name": "M N O P",
+                "id": "M N O P",
+                "words": [
+                    "M",
+                    "N",
+                    "O",
+                    "P"
+                ]
+            },
+            "Q R S T U": {
+                "name": "Q R S T U",
+                "id": "Q R S T U",
+                "words": [
+                    "Q",
+                    "R",
+                    "S",
+                    "T",
+                    "U"
+                ]
+            },
+            "V W X Y Z": {
+                "name": "V W X Y Z",
+                "id": "V W X Y Z",
+                "words": [
+                    "V",
+                    "W",
+                    "X",
+                    "Y",
+                    "Z"
+                ]
+            },
+            "Opposition de é / i": {
+                "name": "Opposition de é / i",
+                "id": "Opposition de é / i",
+                "words": [
+                    "épée",
+                    "été",
+                    "baisser",
+                    "bébé",
+                    "ici",
+                    "défilé"
+                ]
+            },
+            "R + Consonne: [ r ] + [ b ]": {
+                "name": "R + Consonne: [ r ] + [ b ]",
+                "id": "R + Consonne: [ r ] + [ b ]",
+                "words": [
+                    "arbre",
+                    "adverbe",
+                    "airbag",
+                    "arbitre",
+                    "courbe"
+                ]
+            },
+            "R + Consonne: [ r ] + [ k ]": {
+                "name": "R + Consonne: [ r ] + [ k ]",
+                "id": "R + Consonne: [ r ] + [ k ]",
+                "words": [
+                    "arc",
+                    "altercation",
+                    "cercle",
+                    "circuler",
+                    "parcours"
+                ]
+            },
+            "R + Consonne: [ r ] + [ d ]": {
+                "name": "R + Consonne: [ r ] + [ d ]",
+                "id": "R + Consonne: [ r ] + [ d ]",
+                "words": [
+                    "accorder",
+                    "bavarder",
+                    "retarder",
+                    "verdir",
+                    "déborder"
+                ]
+            },
+            "R + Consonne: [ r ] + [ f ]": {
+                "name": "R + Consonne: [ r ] + [ f ]",
+                "id": "R + Consonne: [ r ] + [ f ]",
+                "words": [
+                    "farfouiller",
+                    "interférer",
+                    "amorphe"
+                ]
+            },
+            "R + Consonne: [ r ] + [ g ]": {
+                "name": "R + Consonne: [ r ] + [ g ]",
+                "id": "R + Consonne: [ r ] + [ g ]",
+                "words": [
+                    "allergologue",
+                    "bourgade",
+                    "organisation",
+                    "orgueil",
+                    "margarine"
+                ]
+            },
+            "R + Consonne: [ r ] + [ ʒ ]": {
+                "name": "R + Consonne: [ r ] + [ ʒ ]",
+                "id": "R + Consonne: [ r ] + [ ʒ ]",
+                "words": [
+                    "allergie",
+                    "émergence",
+                    "énergie",
+                    "hébergement",
+                    "parjure"
+                ]
+            },
+            "R + Consonne: [ r ] + [ l ]": {
+                "name": "R + Consonne: [ r ] + [ l ]",
+                "id": "R + Consonne: [ r ] + [ l ]",
+                "words": [
+                    "Berlin",
+                    "Charlotte"
+                ]
+            },
+            "R + Consonne: [ r ] + [ m ]": {
+                "name": "R + Consonne: [ r ] + [ m ]",
+                "id": "R + Consonne: [ r ] + [ m ]",
+                "words": [
+                    "forme",
+                    "normal",
+                    "affirmation",
+                    "fermeture",
+                    "harmonie"
+                ]
+            },
+            "R + Consonne: [ r ] + [ n ]": {
+                "name": "R + Consonne: [ r ] + [ n ]",
+                "id": "R + Consonne: [ r ] + [ n ]",
+                "words": [
+                    "alternance",
+                    "journal",
+                    "tournage",
+                    "citerne",
+                    "surnom"
+                ]
+            },
+            "R + Consonne: [ r ] + [ p ]": {
+                "name": "R + Consonne: [ r ] + [ p ]",
+                "id": "R + Consonne: [ r ] + [ p ]",
+                "words": [
+                    "carpe",
+                    "harpe",
+                    "interpellation",
+                    "serpent",
+                    "charpente"
+                ]
+            },
+            "R + Consonne: [ r ] + [ s ]": {
+                "name": "R + Consonne: [ r ] + [ s ]",
+                "id": "R + Consonne: [ r ] + [ s ]",
+                "words": [
+                    "adversaire",
+                    "arsenal",
+                    "personnel",
+                    "immersion",
+                    "persuasion"
+                ]
+            },
+            "R + Consonne: [ r ] + [ t ]": {
+                "name": "R + Consonne: [ r ] + [ t ]",
+                "id": "R + Consonne: [ r ] + [ t ]",
+                "words": [
+                    "apporter",
+                    "alerter",
+                    "ressortir",
+                    "écarter",
+                    "déserter"
+                ]
+            },
+            "R + Consonne: [ r ] + [ v ]": {
+                "name": "R + Consonne: [ r ] + [ v ]",
+                "id": "R + Consonne: [ r ] + [ v ]",
+                "words": [
+                    "service",
+                    "cerveau",
+                    "ferveur",
+                    "intervention",
+                    "survie"
+                ]
+            },
+            "R + Consonne: [ r ] + [ z ]": {
+                "name": "R + Consonne: [ r ] + [ z ]",
+                "id": "R + Consonne: [ r ] + [ z ]",
+                "words": [
+                    "quatorze",
+                    "quatorzième"
+                ]
+            },
+            "Consonne + R: P + R": {
+                "name": "Consonne + R: P + R",
+                "id": "Consonne + R: P + R",
+                "words": [
+                    "pratique",
+                    "prise",
+                    "câpre",
+                    "après"
+                ]
+            },
+            "Consonne + R: B + R": {
+                "name": "Consonne + R: B + R",
+                "id": "Consonne + R: B + R",
+                "words": [
+                    "bras",
+                    "brise"
+                ]
+            },
+            "Consonne + R: T + R": {
+                "name": "Consonne + R: T + R",
+                "id": "Consonne + R: T + R",
+                "words": [
+                    "trois",
+                    "triste",
+                    "quatre",
+                    "attrait"
+                ]
+            },
+            "Consonne + R: D + R": {
+                "name": "Consonne + R: D + R",
+                "id": "Consonne + R: D + R",
+                "words": [
+                    "droit",
+                    "adroit",
+                    "tendre"
+                ]
+            },
+            "Consonne + R: K + R": {
+                "name": "Consonne + R: K + R",
+                "id": "Consonne + R: K + R",
+                "words": [
+                    "crise",
+                    "sucre",
+                    "sucré"
+                ]
+            },
+            "Consonne + R: G + R": {
+                "name": "Consonne + R: G + R",
+                "id": "Consonne + R: G + R",
+                "words": [
+                    "gras",
+                    "gros",
+                    "aigre",
+                    "grand"
+                ]
+            },
+            "Consonne + R: F + R": {
+                "name": "Consonne + R: F + R",
+                "id": "Consonne + R: F + R",
+                "words": [
+                    "frais",
+                    "français",
+                    "gaufre"
+                ]
+            },
+            "Consonne + R: V + R": {
+                "name": "Consonne + R: V + R",
+                "id": "Consonne + R: V + R",
+                "words": [
+                    "vrai",
+                    "vivre"
+                ]
+            },
+            "Prononciation: O – ON": {
+                "name": "Prononciation: O – ON",
+                "id": "Prononciation: O – ON",
+                "words": [
+                    "son",
+                    "don",
+                    "donne",
+                    "ton",
+                    "tonne",
+                    "bon",
+                    "bonne"
+                ]
+            },
+            "Prononciation: AN – A": {
+                "name": "Prononciation: AN – A",
+                "id": "Prononciation: AN – A",
+                "words": [
+                    "bas",
+                    "banc",
+                    "tas",
+                    "temps",
+                    "sa",
+                    "sans",
+                    "chat",
+                    "vent",
+                    "va",
+                    "quand",
+                    "cas",
+                    "lent",
+                    "las",
+                    "rang",
+                    "rat",
+                    "avant",
+                    "amant"
+                ]
+            },
+            "Prononciation: AN – A (Nasalisation)": {
+                "name": "Prononciation: AN – A (Nasalisation)",
+                "id": "Prononciation: AN – A (Nasalisation)",
+                "words": [
+                    "Jean",
+                    "paysan",
+                    "musulman",
+                    "persan"
+                ]
+            },
+            "Prononciation: IN-AN": {
+                "name": "Prononciation: IN-AN",
+                "id": "Prononciation: IN-AN",
+                "words": [
+                    "intéressant",
+                    "important",
+                    "incessant",
+                    "insistant",
+                    "instant"
+                ]
+            },
+            "Prononciation: IN / AN (1)": {
+                "name": "Prononciation: IN / AN (1)",
+                "id": "Prononciation: IN / AN (1)",
+                "words": [
+                    "bain",
+                    "banc",
+                    "sain",
+                    "sans",
+                    "main",
+                    "plein",
+                    "plan",
+                    "vin",
+                    "vent"
+                ]
+            },
+            "Prononciation: IN / AN (2)": {
+                "name": "Prononciation: IN / AN (2)",
+                "id": "Prononciation: IN / AN (2)",
+                "words": [
+                    "fantassin",
+                    "mandarin",
+                    "transalpin",
+                    "plaisantin",
+                    "alexandrin"
+                ]
+            },
+            "Différence entre: [ɛ] / [ɛ̃]": {
+                "name": "Différence entre: [ɛ] / [ɛ̃]",
+                "id": "Différence entre: [ɛ] / [ɛ̃]",
+                "words": [
+                    "baie",
+                    "bain",
+                    "vais",
+                    "vin",
+                    "taie",
+                    "teint",
+                    "sais",
+                    "sain",
+                    "raie",
+                    "rein"
+                ]
+            },
+            "Différence entre: [o] / [ɔ̃]": {
+                "name": "Différence entre: [o] / [ɔ̃]",
+                "id": "Différence entre: [o] / [ɔ̃]",
+                "words": [
+                    "eau",
+                    "on",
+                    "nos",
+                    "non",
+                    "vos",
+                    "vont",
+                    "tôt",
+                    "ton",
+                    "dos",
+                    "don"
+                ]
+            },
+            "Prononciation: AN – ON": {
+                "name": "Prononciation: AN – ON",
+                "id": "Prononciation: AN – ON",
+                "words": [
+                    "banc",
+                    "bon",
+                    "sang",
+                    "son",
+                    "mont",
+                    "plan",
+                    "plomb",
+                    "gens",
+                    "jonc"
+                ]
+            },
+            "Opposition: È – IN": {
+                "name": "Opposition: È – IN",
+                "id": "Opposition: È – IN",
+                "words": [
+                    "baie",
+                    "bain",
+                    "sais",
+                    "saint",
+                    "mais",
+                    "main",
+                    "teint",
+                    "vais",
+                    "vin"
+                ]
+            }
+        }
+    }
 }
