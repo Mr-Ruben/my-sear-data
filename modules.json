@@ -240,8 +240,8 @@
                "face",
                "price",
                "voice",
-               "flights",
-               "prays"
+               "flight",
+               "pray"
             ]
          },
          "r-liaison vowels":{
