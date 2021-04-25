@@ -37047,9 +37047,921 @@
                     "voice": "Liv"
                 }
             ]
+        },
+        "flight": {
+            "word": "flight",
+            "ipa": "/ˈflaɪt/",
+            "trueSounds": [
+                {
+                    "id": "flight_en-GB_Amy",
+                    "soundFile": "flight_en-GB_Amy.mp3",
+                    "languageCode": "en-GB",
+                    "waveFile": "flight_en-GB_Amy.svg",
+                    "isSolution": true,
+                    "voice": "Amy"
+                },
+                {
+                    "id": "flight_en-GB_Brian",
+                    "soundFile": "flight_en-GB_Brian.mp3",
+                    "languageCode": "en-GB",
+                    "waveFile": "flight_en-GB_Brian.svg",
+                    "isSolution": true,
+                    "voice": "Brian"
+                },
+                {
+                    "id": "flight_en-GB_Emma",
+                    "soundFile": "flight_en-GB_Emma.mp3",
+                    "languageCode": "en-GB",
+                    "waveFile": "flight_en-GB_Emma.svg",
+                    "isSolution": true,
+                    "voice": "Emma"
+                }
+            ],
+            "falseSounds": [
+                {
+                    "id": "flight_nl-NL_Lotte",
+                    "soundFile": "flight_nl-NL_Lotte.mp3",
+                    "languageCode": "nl-NL",
+                    "waveFile": "flight_nl-NL_Lotte.svg",
+                    "isSolution": false,
+                    "voice": "Lotte"
+                },
+                {
+                    "id": "flight_ru-RU_Maxim",
+                    "soundFile": "flight_ru-RU_Maxim.mp3",
+                    "languageCode": "ru-RU",
+                    "waveFile": "flight_ru-RU_Maxim.svg",
+                    "isSolution": false,
+                    "voice": "Maxim"
+                },
+                {
+                    "id": "flight_de-DE_Marlene",
+                    "soundFile": "flight_de-DE_Marlene.mp3",
+                    "languageCode": "de-DE",
+                    "waveFile": "flight_de-DE_Marlene.svg",
+                    "isSolution": false,
+                    "voice": "Marlene"
+                },
+                {
+                    "id": "flight_it-IT_Giorgio",
+                    "soundFile": "flight_it-IT_Giorgio.mp3",
+                    "languageCode": "it-IT",
+                    "waveFile": "flight_it-IT_Giorgio.svg",
+                    "isSolution": false,
+                    "voice": "Giorgio"
+                },
+                {
+                    "id": "flight_pt-PT_Ines",
+                    "soundFile": "flight_pt-PT_Ines.mp3",
+                    "languageCode": "pt-PT",
+                    "waveFile": "flight_pt-PT_Ines.svg",
+                    "isSolution": false,
+                    "voice": "Ines"
+                },
+                {
+                    "id": "flight_cy-GB_Gwyneth",
+                    "soundFile": "flight_cy-GB_Gwyneth.mp3",
+                    "languageCode": "cy-GB",
+                    "waveFile": "flight_cy-GB_Gwyneth.svg",
+                    "isSolution": false,
+                    "voice": "Gwyneth"
+                },
+                {
+                    "id": "flight_is-IS_Karl",
+                    "soundFile": "flight_is-IS_Karl.mp3",
+                    "languageCode": "is-IS",
+                    "waveFile": "flight_is-IS_Karl.svg",
+                    "isSolution": false,
+                    "voice": "Karl"
+                },
+                {
+                    "id": "flight_es-ES_Lucia",
+                    "soundFile": "flight_es-ES_Lucia.mp3",
+                    "languageCode": "es-ES",
+                    "waveFile": "flight_es-ES_Lucia.svg",
+                    "isSolution": false,
+                    "voice": "Lucia"
+                },
+                {
+                    "id": "flight_pt-PT_Cristiano",
+                    "soundFile": "flight_pt-PT_Cristiano.mp3",
+                    "languageCode": "pt-PT",
+                    "waveFile": "flight_pt-PT_Cristiano.svg",
+                    "isSolution": false,
+                    "voice": "Cristiano"
+                },
+                {
+                    "id": "flight_sv-SE_Astrid",
+                    "soundFile": "flight_sv-SE_Astrid.mp3",
+                    "languageCode": "sv-SE",
+                    "waveFile": "flight_sv-SE_Astrid.svg",
+                    "isSolution": false,
+                    "voice": "Astrid"
+                },
+                {
+                    "id": "flight_de-DE_Vicki",
+                    "soundFile": "flight_de-DE_Vicki.mp3",
+                    "languageCode": "de-DE",
+                    "waveFile": "flight_de-DE_Vicki.svg",
+                    "isSolution": false,
+                    "voice": "Vicki"
+                },
+                {
+                    "id": "flight_it-IT_Bianca",
+                    "soundFile": "flight_it-IT_Bianca.mp3",
+                    "languageCode": "it-IT",
+                    "waveFile": "flight_it-IT_Bianca.svg",
+                    "isSolution": false,
+                    "voice": "Bianca"
+                },
+                {
+                    "id": "flight_pt-BR_Vitoria",
+                    "soundFile": "flight_pt-BR_Vitoria.mp3",
+                    "languageCode": "pt-BR",
+                    "waveFile": "flight_pt-BR_Vitoria.svg",
+                    "isSolution": false,
+                    "voice": "Vitoria"
+                },
+                {
+                    "id": "flight_is-IS_Dora",
+                    "soundFile": "flight_is-IS_Dora.mp3",
+                    "languageCode": "is-IS",
+                    "waveFile": "flight_is-IS_Dora.svg",
+                    "isSolution": false,
+                    "voice": "Dora"
+                },
+                {
+                    "id": "flight_es-ES_Enrique",
+                    "soundFile": "flight_es-ES_Enrique.mp3",
+                    "languageCode": "es-ES",
+                    "waveFile": "flight_es-ES_Enrique.svg",
+                    "isSolution": false,
+                    "voice": "Enrique"
+                },
+                {
+                    "id": "flight_de-DE_Hans",
+                    "soundFile": "flight_de-DE_Hans.mp3",
+                    "languageCode": "de-DE",
+                    "waveFile": "flight_de-DE_Hans.svg",
+                    "isSolution": false,
+                    "voice": "Hans"
+                },
+                {
+                    "id": "flight_ro-RO_Carmen",
+                    "soundFile": "flight_ro-RO_Carmen.mp3",
+                    "languageCode": "ro-RO",
+                    "waveFile": "flight_ro-RO_Carmen.svg",
+                    "isSolution": false,
+                    "voice": "Carmen"
+                },
+                {
+                    "id": "flight_pl-PL_Ewa",
+                    "soundFile": "flight_pl-PL_Ewa.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "flight_pl-PL_Ewa.svg",
+                    "isSolution": false,
+                    "voice": "Ewa"
+                },
+                {
+                    "id": "flight_pl-PL_Maja",
+                    "soundFile": "flight_pl-PL_Maja.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "flight_pl-PL_Maja.svg",
+                    "isSolution": false,
+                    "voice": "Maja"
+                },
+                {
+                    "id": "flight_pt-BR_Camila",
+                    "soundFile": "flight_pt-BR_Camila.mp3",
+                    "languageCode": "pt-BR",
+                    "waveFile": "flight_pt-BR_Camila.svg",
+                    "isSolution": false,
+                    "voice": "Camila"
+                },
+                {
+                    "id": "flight_tr-TR_Filiz",
+                    "soundFile": "flight_tr-TR_Filiz.mp3",
+                    "languageCode": "tr-TR",
+                    "waveFile": "flight_tr-TR_Filiz.svg",
+                    "isSolution": false,
+                    "voice": "Filiz"
+                },
+                {
+                    "id": "flight_pl-PL_Jacek",
+                    "soundFile": "flight_pl-PL_Jacek.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "flight_pl-PL_Jacek.svg",
+                    "isSolution": false,
+                    "voice": "Jacek"
+                },
+                {
+                    "id": "flight_fr-FR_Celine",
+                    "soundFile": "flight_fr-FR_Celine.mp3",
+                    "languageCode": "fr-FR",
+                    "waveFile": "flight_fr-FR_Celine.svg",
+                    "isSolution": false,
+                    "voice": "Celine"
+                },
+                {
+                    "id": "flight_pt-BR_Ricardo",
+                    "soundFile": "flight_pt-BR_Ricardo.mp3",
+                    "languageCode": "pt-BR",
+                    "waveFile": "flight_pt-BR_Ricardo.svg",
+                    "isSolution": false,
+                    "voice": "Ricardo"
+                },
+                {
+                    "id": "flight_da-DK_Mads",
+                    "soundFile": "flight_da-DK_Mads.mp3",
+                    "languageCode": "da-DK",
+                    "waveFile": "flight_da-DK_Mads.svg",
+                    "isSolution": false,
+                    "voice": "Mads"
+                },
+                {
+                    "id": "flight_fr-FR_Mathieu",
+                    "soundFile": "flight_fr-FR_Mathieu.mp3",
+                    "languageCode": "fr-FR",
+                    "waveFile": "flight_fr-FR_Mathieu.svg",
+                    "isSolution": false,
+                    "voice": "Mathieu"
+                },
+                {
+                    "id": "flight_fr-FR_Lea",
+                    "soundFile": "flight_fr-FR_Lea.mp3",
+                    "languageCode": "fr-FR",
+                    "waveFile": "flight_fr-FR_Lea.svg",
+                    "isSolution": false,
+                    "voice": "Lea"
+                },
+                {
+                    "id": "flight_da-DK_Naja",
+                    "soundFile": "flight_da-DK_Naja.mp3",
+                    "languageCode": "da-DK",
+                    "waveFile": "flight_da-DK_Naja.svg",
+                    "isSolution": false,
+                    "voice": "Naja"
+                },
+                {
+                    "id": "flight_ru-RU_Tatyana",
+                    "soundFile": "flight_ru-RU_Tatyana.mp3",
+                    "languageCode": "ru-RU",
+                    "waveFile": "flight_ru-RU_Tatyana.svg",
+                    "isSolution": false,
+                    "voice": "Tatyana"
+                },
+                {
+                    "id": "flight_nl-NL_Ruben",
+                    "soundFile": "flight_nl-NL_Ruben.mp3",
+                    "languageCode": "nl-NL",
+                    "waveFile": "flight_nl-NL_Ruben.svg",
+                    "isSolution": false,
+                    "voice": "Ruben"
+                },
+                {
+                    "id": "flight_es-ES_Conchita",
+                    "soundFile": "flight_es-ES_Conchita.mp3",
+                    "languageCode": "es-ES",
+                    "waveFile": "flight_es-ES_Conchita.svg",
+                    "isSolution": false,
+                    "voice": "Conchita"
+                },
+                {
+                    "id": "flight_it-IT_Carla",
+                    "soundFile": "flight_it-IT_Carla.mp3",
+                    "languageCode": "it-IT",
+                    "waveFile": "flight_it-IT_Carla.svg",
+                    "isSolution": false,
+                    "voice": "Carla"
+                },
+                {
+                    "id": "flight_pl-PL_Jan",
+                    "soundFile": "flight_pl-PL_Jan.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "flight_pl-PL_Jan.svg",
+                    "isSolution": false,
+                    "voice": "Jan"
+                },
+                {
+                    "id": "flight_nb-NO_Liv",
+                    "soundFile": "flight_nb-NO_Liv.mp3",
+                    "languageCode": "nb-NO",
+                    "waveFile": "flight_nb-NO_Liv.svg",
+                    "isSolution": false,
+                    "voice": "Liv"
+                }
+            ]
+        },
+        "voice": {
+            "word": "voice",
+            "ipa": "/ˈvɔɪs/",
+            "trueSounds": [
+                {
+                    "id": "voice_en-GB_Amy",
+                    "soundFile": "voice_en-GB_Amy.mp3",
+                    "languageCode": "en-GB",
+                    "waveFile": "voice_en-GB_Amy.svg",
+                    "isSolution": true,
+                    "voice": "Amy"
+                },
+                {
+                    "id": "voice_en-GB_Brian",
+                    "soundFile": "voice_en-GB_Brian.mp3",
+                    "languageCode": "en-GB",
+                    "waveFile": "voice_en-GB_Brian.svg",
+                    "isSolution": true,
+                    "voice": "Brian"
+                },
+                {
+                    "id": "voice_en-GB_Emma",
+                    "soundFile": "voice_en-GB_Emma.mp3",
+                    "languageCode": "en-GB",
+                    "waveFile": "voice_en-GB_Emma.svg",
+                    "isSolution": true,
+                    "voice": "Emma"
+                }
+            ],
+            "falseSounds": [
+                {
+                    "id": "voice_nl-NL_Lotte",
+                    "soundFile": "voice_nl-NL_Lotte.mp3",
+                    "languageCode": "nl-NL",
+                    "waveFile": "voice_nl-NL_Lotte.svg",
+                    "isSolution": false,
+                    "voice": "Lotte"
+                },
+                {
+                    "id": "voice_ru-RU_Maxim",
+                    "soundFile": "voice_ru-RU_Maxim.mp3",
+                    "languageCode": "ru-RU",
+                    "waveFile": "voice_ru-RU_Maxim.svg",
+                    "isSolution": false,
+                    "voice": "Maxim"
+                },
+                {
+                    "id": "voice_de-DE_Marlene",
+                    "soundFile": "voice_de-DE_Marlene.mp3",
+                    "languageCode": "de-DE",
+                    "waveFile": "voice_de-DE_Marlene.svg",
+                    "isSolution": false,
+                    "voice": "Marlene"
+                },
+                {
+                    "id": "voice_it-IT_Giorgio",
+                    "soundFile": "voice_it-IT_Giorgio.mp3",
+                    "languageCode": "it-IT",
+                    "waveFile": "voice_it-IT_Giorgio.svg",
+                    "isSolution": false,
+                    "voice": "Giorgio"
+                },
+                {
+                    "id": "voice_pt-PT_Ines",
+                    "soundFile": "voice_pt-PT_Ines.mp3",
+                    "languageCode": "pt-PT",
+                    "waveFile": "voice_pt-PT_Ines.svg",
+                    "isSolution": false,
+                    "voice": "Ines"
+                },
+                {
+                    "id": "voice_cy-GB_Gwyneth",
+                    "soundFile": "voice_cy-GB_Gwyneth.mp3",
+                    "languageCode": "cy-GB",
+                    "waveFile": "voice_cy-GB_Gwyneth.svg",
+                    "isSolution": false,
+                    "voice": "Gwyneth"
+                },
+                {
+                    "id": "voice_is-IS_Karl",
+                    "soundFile": "voice_is-IS_Karl.mp3",
+                    "languageCode": "is-IS",
+                    "waveFile": "voice_is-IS_Karl.svg",
+                    "isSolution": false,
+                    "voice": "Karl"
+                },
+                {
+                    "id": "voice_es-ES_Lucia",
+                    "soundFile": "voice_es-ES_Lucia.mp3",
+                    "languageCode": "es-ES",
+                    "waveFile": "voice_es-ES_Lucia.svg",
+                    "isSolution": false,
+                    "voice": "Lucia"
+                },
+                {
+                    "id": "voice_pt-PT_Cristiano",
+                    "soundFile": "voice_pt-PT_Cristiano.mp3",
+                    "languageCode": "pt-PT",
+                    "waveFile": "voice_pt-PT_Cristiano.svg",
+                    "isSolution": false,
+                    "voice": "Cristiano"
+                },
+                {
+                    "id": "voice_sv-SE_Astrid",
+                    "soundFile": "voice_sv-SE_Astrid.mp3",
+                    "languageCode": "sv-SE",
+                    "waveFile": "voice_sv-SE_Astrid.svg",
+                    "isSolution": false,
+                    "voice": "Astrid"
+                },
+                {
+                    "id": "voice_de-DE_Vicki",
+                    "soundFile": "voice_de-DE_Vicki.mp3",
+                    "languageCode": "de-DE",
+                    "waveFile": "voice_de-DE_Vicki.svg",
+                    "isSolution": false,
+                    "voice": "Vicki"
+                },
+                {
+                    "id": "voice_it-IT_Bianca",
+                    "soundFile": "voice_it-IT_Bianca.mp3",
+                    "languageCode": "it-IT",
+                    "waveFile": "voice_it-IT_Bianca.svg",
+                    "isSolution": false,
+                    "voice": "Bianca"
+                },
+                {
+                    "id": "voice_pt-BR_Vitoria",
+                    "soundFile": "voice_pt-BR_Vitoria.mp3",
+                    "languageCode": "pt-BR",
+                    "waveFile": "voice_pt-BR_Vitoria.svg",
+                    "isSolution": false,
+                    "voice": "Vitoria"
+                },
+                {
+                    "id": "voice_is-IS_Dora",
+                    "soundFile": "voice_is-IS_Dora.mp3",
+                    "languageCode": "is-IS",
+                    "waveFile": "voice_is-IS_Dora.svg",
+                    "isSolution": false,
+                    "voice": "Dora"
+                },
+                {
+                    "id": "voice_es-ES_Enrique",
+                    "soundFile": "voice_es-ES_Enrique.mp3",
+                    "languageCode": "es-ES",
+                    "waveFile": "voice_es-ES_Enrique.svg",
+                    "isSolution": false,
+                    "voice": "Enrique"
+                },
+                {
+                    "id": "voice_de-DE_Hans",
+                    "soundFile": "voice_de-DE_Hans.mp3",
+                    "languageCode": "de-DE",
+                    "waveFile": "voice_de-DE_Hans.svg",
+                    "isSolution": false,
+                    "voice": "Hans"
+                },
+                {
+                    "id": "voice_ro-RO_Carmen",
+                    "soundFile": "voice_ro-RO_Carmen.mp3",
+                    "languageCode": "ro-RO",
+                    "waveFile": "voice_ro-RO_Carmen.svg",
+                    "isSolution": false,
+                    "voice": "Carmen"
+                },
+                {
+                    "id": "voice_pl-PL_Ewa",
+                    "soundFile": "voice_pl-PL_Ewa.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "voice_pl-PL_Ewa.svg",
+                    "isSolution": false,
+                    "voice": "Ewa"
+                },
+                {
+                    "id": "voice_pl-PL_Maja",
+                    "soundFile": "voice_pl-PL_Maja.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "voice_pl-PL_Maja.svg",
+                    "isSolution": false,
+                    "voice": "Maja"
+                },
+                {
+                    "id": "voice_pt-BR_Camila",
+                    "soundFile": "voice_pt-BR_Camila.mp3",
+                    "languageCode": "pt-BR",
+                    "waveFile": "voice_pt-BR_Camila.svg",
+                    "isSolution": false,
+                    "voice": "Camila"
+                },
+                {
+                    "id": "voice_tr-TR_Filiz",
+                    "soundFile": "voice_tr-TR_Filiz.mp3",
+                    "languageCode": "tr-TR",
+                    "waveFile": "voice_tr-TR_Filiz.svg",
+                    "isSolution": false,
+                    "voice": "Filiz"
+                },
+                {
+                    "id": "voice_pl-PL_Jacek",
+                    "soundFile": "voice_pl-PL_Jacek.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "voice_pl-PL_Jacek.svg",
+                    "isSolution": false,
+                    "voice": "Jacek"
+                },
+                {
+                    "id": "voice_fr-FR_Celine",
+                    "soundFile": "voice_fr-FR_Celine.mp3",
+                    "languageCode": "fr-FR",
+                    "waveFile": "voice_fr-FR_Celine.svg",
+                    "isSolution": false,
+                    "voice": "Celine"
+                },
+                {
+                    "id": "voice_pt-BR_Ricardo",
+                    "soundFile": "voice_pt-BR_Ricardo.mp3",
+                    "languageCode": "pt-BR",
+                    "waveFile": "voice_pt-BR_Ricardo.svg",
+                    "isSolution": false,
+                    "voice": "Ricardo"
+                },
+                {
+                    "id": "voice_da-DK_Mads",
+                    "soundFile": "voice_da-DK_Mads.mp3",
+                    "languageCode": "da-DK",
+                    "waveFile": "voice_da-DK_Mads.svg",
+                    "isSolution": false,
+                    "voice": "Mads"
+                },
+                {
+                    "id": "voice_fr-FR_Mathieu",
+                    "soundFile": "voice_fr-FR_Mathieu.mp3",
+                    "languageCode": "fr-FR",
+                    "waveFile": "voice_fr-FR_Mathieu.svg",
+                    "isSolution": false,
+                    "voice": "Mathieu"
+                },
+                {
+                    "id": "voice_fr-FR_Lea",
+                    "soundFile": "voice_fr-FR_Lea.mp3",
+                    "languageCode": "fr-FR",
+                    "waveFile": "voice_fr-FR_Lea.svg",
+                    "isSolution": false,
+                    "voice": "Lea"
+                },
+                {
+                    "id": "voice_da-DK_Naja",
+                    "soundFile": "voice_da-DK_Naja.mp3",
+                    "languageCode": "da-DK",
+                    "waveFile": "voice_da-DK_Naja.svg",
+                    "isSolution": false,
+                    "voice": "Naja"
+                },
+                {
+                    "id": "voice_ru-RU_Tatyana",
+                    "soundFile": "voice_ru-RU_Tatyana.mp3",
+                    "languageCode": "ru-RU",
+                    "waveFile": "voice_ru-RU_Tatyana.svg",
+                    "isSolution": false,
+                    "voice": "Tatyana"
+                },
+                {
+                    "id": "voice_nl-NL_Ruben",
+                    "soundFile": "voice_nl-NL_Ruben.mp3",
+                    "languageCode": "nl-NL",
+                    "waveFile": "voice_nl-NL_Ruben.svg",
+                    "isSolution": false,
+                    "voice": "Ruben"
+                },
+                {
+                    "id": "voice_es-ES_Conchita",
+                    "soundFile": "voice_es-ES_Conchita.mp3",
+                    "languageCode": "es-ES",
+                    "waveFile": "voice_es-ES_Conchita.svg",
+                    "isSolution": false,
+                    "voice": "Conchita"
+                },
+                {
+                    "id": "voice_it-IT_Carla",
+                    "soundFile": "voice_it-IT_Carla.mp3",
+                    "languageCode": "it-IT",
+                    "waveFile": "voice_it-IT_Carla.svg",
+                    "isSolution": false,
+                    "voice": "Carla"
+                },
+                {
+                    "id": "voice_pl-PL_Jan",
+                    "soundFile": "voice_pl-PL_Jan.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "voice_pl-PL_Jan.svg",
+                    "isSolution": false,
+                    "voice": "Jan"
+                },
+                {
+                    "id": "voice_nb-NO_Liv",
+                    "soundFile": "voice_nb-NO_Liv.mp3",
+                    "languageCode": "nb-NO",
+                    "waveFile": "voice_nb-NO_Liv.svg",
+                    "isSolution": false,
+                    "voice": "Liv"
+                }
+            ]
+        },
+        "pray": {
+            "word": "pray",
+            "ipa": "/ˈpreɪ/",
+            "trueSounds": [
+                {
+                    "id": "pray_en-GB_Amy",
+                    "soundFile": "pray_en-GB_Amy.mp3",
+                    "languageCode": "en-GB",
+                    "waveFile": "pray_en-GB_Amy.svg",
+                    "isSolution": true,
+                    "voice": "Amy"
+                },
+                {
+                    "id": "pray_en-GB_Brian",
+                    "soundFile": "pray_en-GB_Brian.mp3",
+                    "languageCode": "en-GB",
+                    "waveFile": "pray_en-GB_Brian.svg",
+                    "isSolution": true,
+                    "voice": "Brian"
+                },
+                {
+                    "id": "pray_en-GB_Emma",
+                    "soundFile": "pray_en-GB_Emma.mp3",
+                    "languageCode": "en-GB",
+                    "waveFile": "pray_en-GB_Emma.svg",
+                    "isSolution": true,
+                    "voice": "Emma"
+                }
+            ],
+            "falseSounds": [
+                {
+                    "id": "pray_nl-NL_Lotte",
+                    "soundFile": "pray_nl-NL_Lotte.mp3",
+                    "languageCode": "nl-NL",
+                    "waveFile": "pray_nl-NL_Lotte.svg",
+                    "isSolution": false,
+                    "voice": "Lotte"
+                },
+                {
+                    "id": "pray_ru-RU_Maxim",
+                    "soundFile": "pray_ru-RU_Maxim.mp3",
+                    "languageCode": "ru-RU",
+                    "waveFile": "pray_ru-RU_Maxim.svg",
+                    "isSolution": false,
+                    "voice": "Maxim"
+                },
+                {
+                    "id": "pray_de-DE_Marlene",
+                    "soundFile": "pray_de-DE_Marlene.mp3",
+                    "languageCode": "de-DE",
+                    "waveFile": "pray_de-DE_Marlene.svg",
+                    "isSolution": false,
+                    "voice": "Marlene"
+                },
+                {
+                    "id": "pray_it-IT_Giorgio",
+                    "soundFile": "pray_it-IT_Giorgio.mp3",
+                    "languageCode": "it-IT",
+                    "waveFile": "pray_it-IT_Giorgio.svg",
+                    "isSolution": false,
+                    "voice": "Giorgio"
+                },
+                {
+                    "id": "pray_pt-PT_Ines",
+                    "soundFile": "pray_pt-PT_Ines.mp3",
+                    "languageCode": "pt-PT",
+                    "waveFile": "pray_pt-PT_Ines.svg",
+                    "isSolution": false,
+                    "voice": "Ines"
+                },
+                {
+                    "id": "pray_cy-GB_Gwyneth",
+                    "soundFile": "pray_cy-GB_Gwyneth.mp3",
+                    "languageCode": "cy-GB",
+                    "waveFile": "pray_cy-GB_Gwyneth.svg",
+                    "isSolution": false,
+                    "voice": "Gwyneth"
+                },
+                {
+                    "id": "pray_is-IS_Karl",
+                    "soundFile": "pray_is-IS_Karl.mp3",
+                    "languageCode": "is-IS",
+                    "waveFile": "pray_is-IS_Karl.svg",
+                    "isSolution": false,
+                    "voice": "Karl"
+                },
+                {
+                    "id": "pray_es-ES_Lucia",
+                    "soundFile": "pray_es-ES_Lucia.mp3",
+                    "languageCode": "es-ES",
+                    "waveFile": "pray_es-ES_Lucia.svg",
+                    "isSolution": false,
+                    "voice": "Lucia"
+                },
+                {
+                    "id": "pray_pt-PT_Cristiano",
+                    "soundFile": "pray_pt-PT_Cristiano.mp3",
+                    "languageCode": "pt-PT",
+                    "waveFile": "pray_pt-PT_Cristiano.svg",
+                    "isSolution": false,
+                    "voice": "Cristiano"
+                },
+                {
+                    "id": "pray_sv-SE_Astrid",
+                    "soundFile": "pray_sv-SE_Astrid.mp3",
+                    "languageCode": "sv-SE",
+                    "waveFile": "pray_sv-SE_Astrid.svg",
+                    "isSolution": false,
+                    "voice": "Astrid"
+                },
+                {
+                    "id": "pray_de-DE_Vicki",
+                    "soundFile": "pray_de-DE_Vicki.mp3",
+                    "languageCode": "de-DE",
+                    "waveFile": "pray_de-DE_Vicki.svg",
+                    "isSolution": false,
+                    "voice": "Vicki"
+                },
+                {
+                    "id": "pray_it-IT_Bianca",
+                    "soundFile": "pray_it-IT_Bianca.mp3",
+                    "languageCode": "it-IT",
+                    "waveFile": "pray_it-IT_Bianca.svg",
+                    "isSolution": false,
+                    "voice": "Bianca"
+                },
+                {
+                    "id": "pray_pt-BR_Vitoria",
+                    "soundFile": "pray_pt-BR_Vitoria.mp3",
+                    "languageCode": "pt-BR",
+                    "waveFile": "pray_pt-BR_Vitoria.svg",
+                    "isSolution": false,
+                    "voice": "Vitoria"
+                },
+                {
+                    "id": "pray_is-IS_Dora",
+                    "soundFile": "pray_is-IS_Dora.mp3",
+                    "languageCode": "is-IS",
+                    "waveFile": "pray_is-IS_Dora.svg",
+                    "isSolution": false,
+                    "voice": "Dora"
+                },
+                {
+                    "id": "pray_es-ES_Enrique",
+                    "soundFile": "pray_es-ES_Enrique.mp3",
+                    "languageCode": "es-ES",
+                    "waveFile": "pray_es-ES_Enrique.svg",
+                    "isSolution": false,
+                    "voice": "Enrique"
+                },
+                {
+                    "id": "pray_de-DE_Hans",
+                    "soundFile": "pray_de-DE_Hans.mp3",
+                    "languageCode": "de-DE",
+                    "waveFile": "pray_de-DE_Hans.svg",
+                    "isSolution": false,
+                    "voice": "Hans"
+                },
+                {
+                    "id": "pray_ro-RO_Carmen",
+                    "soundFile": "pray_ro-RO_Carmen.mp3",
+                    "languageCode": "ro-RO",
+                    "waveFile": "pray_ro-RO_Carmen.svg",
+                    "isSolution": false,
+                    "voice": "Carmen"
+                },
+                {
+                    "id": "pray_pl-PL_Ewa",
+                    "soundFile": "pray_pl-PL_Ewa.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "pray_pl-PL_Ewa.svg",
+                    "isSolution": false,
+                    "voice": "Ewa"
+                },
+                {
+                    "id": "pray_pl-PL_Maja",
+                    "soundFile": "pray_pl-PL_Maja.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "pray_pl-PL_Maja.svg",
+                    "isSolution": false,
+                    "voice": "Maja"
+                },
+                {
+                    "id": "pray_pt-BR_Camila",
+                    "soundFile": "pray_pt-BR_Camila.mp3",
+                    "languageCode": "pt-BR",
+                    "waveFile": "pray_pt-BR_Camila.svg",
+                    "isSolution": false,
+                    "voice": "Camila"
+                },
+                {
+                    "id": "pray_tr-TR_Filiz",
+                    "soundFile": "pray_tr-TR_Filiz.mp3",
+                    "languageCode": "tr-TR",
+                    "waveFile": "pray_tr-TR_Filiz.svg",
+                    "isSolution": false,
+                    "voice": "Filiz"
+                },
+                {
+                    "id": "pray_pl-PL_Jacek",
+                    "soundFile": "pray_pl-PL_Jacek.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "pray_pl-PL_Jacek.svg",
+                    "isSolution": false,
+                    "voice": "Jacek"
+                },
+                {
+                    "id": "pray_fr-FR_Celine",
+                    "soundFile": "pray_fr-FR_Celine.mp3",
+                    "languageCode": "fr-FR",
+                    "waveFile": "pray_fr-FR_Celine.svg",
+                    "isSolution": false,
+                    "voice": "Celine"
+                },
+                {
+                    "id": "pray_pt-BR_Ricardo",
+                    "soundFile": "pray_pt-BR_Ricardo.mp3",
+                    "languageCode": "pt-BR",
+                    "waveFile": "pray_pt-BR_Ricardo.svg",
+                    "isSolution": false,
+                    "voice": "Ricardo"
+                },
+                {
+                    "id": "pray_da-DK_Mads",
+                    "soundFile": "pray_da-DK_Mads.mp3",
+                    "languageCode": "da-DK",
+                    "waveFile": "pray_da-DK_Mads.svg",
+                    "isSolution": false,
+                    "voice": "Mads"
+                },
+                {
+                    "id": "pray_fr-FR_Mathieu",
+                    "soundFile": "pray_fr-FR_Mathieu.mp3",
+                    "languageCode": "fr-FR",
+                    "waveFile": "pray_fr-FR_Mathieu.svg",
+                    "isSolution": false,
+                    "voice": "Mathieu"
+                },
+                {
+                    "id": "pray_fr-FR_Lea",
+                    "soundFile": "pray_fr-FR_Lea.mp3",
+                    "languageCode": "fr-FR",
+                    "waveFile": "pray_fr-FR_Lea.svg",
+                    "isSolution": false,
+                    "voice": "Lea"
+                },
+                {
+                    "id": "pray_da-DK_Naja",
+                    "soundFile": "pray_da-DK_Naja.mp3",
+                    "languageCode": "da-DK",
+                    "waveFile": "pray_da-DK_Naja.svg",
+                    "isSolution": false,
+                    "voice": "Naja"
+                },
+                {
+                    "id": "pray_ru-RU_Tatyana",
+                    "soundFile": "pray_ru-RU_Tatyana.mp3",
+                    "languageCode": "ru-RU",
+                    "waveFile": "pray_ru-RU_Tatyana.svg",
+                    "isSolution": false,
+                    "voice": "Tatyana"
+                },
+                {
+                    "id": "pray_nl-NL_Ruben",
+                    "soundFile": "pray_nl-NL_Ruben.mp3",
+                    "languageCode": "nl-NL",
+                    "waveFile": "pray_nl-NL_Ruben.svg",
+                    "isSolution": false,
+                    "voice": "Ruben"
+                },
+                {
+                    "id": "pray_es-ES_Conchita",
+                    "soundFile": "pray_es-ES_Conchita.mp3",
+                    "languageCode": "es-ES",
+                    "waveFile": "pray_es-ES_Conchita.svg",
+                    "isSolution": false,
+                    "voice": "Conchita"
+                },
+                {
+                    "id": "pray_it-IT_Carla",
+                    "soundFile": "pray_it-IT_Carla.mp3",
+                    "languageCode": "it-IT",
+                    "waveFile": "pray_it-IT_Carla.svg",
+                    "isSolution": false,
+                    "voice": "Carla"
+                },
+                {
+                    "id": "pray_pl-PL_Jan",
+                    "soundFile": "pray_pl-PL_Jan.mp3",
+                    "languageCode": "pl-PL",
+                    "waveFile": "pray_pl-PL_Jan.svg",
+                    "isSolution": false,
+                    "voice": "Jan"
+                },
+                {
+                    "id": "pray_nb-NO_Liv",
+                    "soundFile": "pray_nb-NO_Liv.mp3",
+                    "languageCode": "nb-NO",
+                    "waveFile": "pray_nb-NO_Liv.svg",
+                    "isSolution": false,
+                    "voice": "Liv"
+                }
+            ]
         }
     },
-"es-ES": {
+    "es-ES": {
         "mayo": {
             "word": "mayo",
             "ipa": "/ˈma.ʝo/",
