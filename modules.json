@@ -475,12 +475,7 @@
     },
     "fr-FR": {
         "langName": "Spanish (Spain)",
-        "modules":  {
-            "Les voyelles orales: [i]": {
-                "name": "Les voyelles orales: [i]",
-                "id": "Les voyelles orales: [i]",
-                "words": []
-            },
+        "modules": {
             "Les voyelles orales: [e]": {
                 "name": "Les voyelles orales: [e]",
                 "id": "Les voyelles orales: [e]",
