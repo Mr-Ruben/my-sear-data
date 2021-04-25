@@ -239,7 +239,9 @@
                "fleece",
                "face",
                "price",
-               "voice"
+               "voice",
+               "flights",
+               "prays"
             ]
          },
          "r-liaison vowels":{
