@@ -1,0 +1,1571 @@
+{
+    "en-GB": {
+        "words": {
+            "A": {
+                "ipa": "/eɪ/"
+            },
+            "B": {
+                "ipa": "/ˈbiː/"
+            },
+            "C": {
+                "ipa": "/ˈsiː/"
+            },
+            "D": {
+                "ipa": "/ˈdiː/"
+            },
+            "E": {
+                "ipa": "/ˈiː/"
+            },
+            "England": {
+                "ipa": "/ˈɪŋglənd/"
+            },
+            "F": {
+                "ipa": "/ˈɛf/"
+            },
+            "G": {
+                "ipa": "/ˈdʒiː/"
+            },
+            "God": {
+                "ipa": "/ˈɡɒd/"
+            },
+            "H": {
+                "ipa": "/ˈeɪtʃ/"
+            },
+            "I": {
+                "ipa": "/ˈaɪ/"
+            },
+            "J": {
+                "ipa": "/ˈdʒeɪ/"
+            },
+            "K": {
+                "ipa": "/ˈkeɪ/"
+            },
+            "L": {
+                "ipa": "/ˈɛl/"
+            },
+            "M": {
+                "ipa": "/ˈɛm/"
+            },
+            "N": {
+                "ipa": "/ˈɛn/"
+            },
+            "O": {
+                "ipa": "/ˈəʊ/"
+            },
+            "P": {
+                "ipa": "/ˈpiː/"
+            },
+            "Q": {
+                "ipa": "/ˈkjuː/"
+            },
+            "R": {
+                "ipa": "/ˈɑːr/"
+            },
+            "S": {
+                "ipa": "/ˈɛs/"
+            },
+            "T": {
+                "ipa": "/ˈtiː/"
+            },
+            "U": {
+                "ipa": "/ˈjuː/"
+            },
+            "V": {
+                "ipa": "/ˈviː/"
+            },
+            "W": {
+                "ipa": "/ˈdʌbəljuː/"
+            },
+            "X": {
+                "ipa": "/ˈɛks/"
+            },
+            "Y": {
+                "ipa": "/ˈwaɪ/"
+            },
+            "Z": {
+                "ipa": "/ˈzɛd/"
+            },
+            "act": {
+                "ipa": "/ˈækt/"
+            },
+            "aesthetic": {
+                "ipa": "/iːsˈθɛtɪk/"
+            },
+            "bat": {
+                "ipa": "/ˈbæt/"
+            },
+            "bear": {
+                "ipa": "/ˈbɛər/"
+            },
+            "beer": {
+                "ipa": "/ˈbɪər/"
+            },
+            "beg": {
+                "ipa": "/ˈbɛg/"
+            },
+            "bin": {
+                "ipa": "/ˈbɪn/"
+            },
+            "blue": {
+                "ipa": "/ˈbluː/"
+            },
+            "boat": {
+                "ipa": "/ˈbəʊt/"
+            },
+            "book": {
+                "ipa": "/ˈbʊk/"
+            },
+            "boot": {
+                "ipa": "/ˈbuːt/"
+            },
+            "boy": {
+                "ipa": "/ˈbɔɪ/"
+            },
+            "bread": {
+                "ipa": "/ˈbrɛd/"
+            },
+            "build": {
+                "ipa": "/ˈbɪld/"
+            },
+            "bun": {
+                "ipa": "/ˈbʌn/"
+            },
+            "bury": {
+                "ipa": "/ˈbɛri/"
+            },
+            "bush": {
+                "ipa": "/ˈbʊʃ/"
+            },
+            "busy": {
+                "ipa": "/ˈbɪzi/"
+            },
+            "buy": {
+                "ipa": "/ˈbaɪ/"
+            },
+            "cat": {
+                "ipa": "/ˈkæt/"
+            },
+            "choice": {
+                "ipa": "/tʃɔɪs/"
+            },
+            "comma": {
+                "ipa": "/ˈkɒmə/"
+            },
+            "cop": {
+                "ipa": "/ˈkɒp/"
+            },
+            "could": {
+                "ipa": "/ˈkʊd/"
+            },
+            "coy": {
+                "ipa": "/ˈkɔɪ/"
+            },
+            "cry": {
+                "ipa": "/ˈkraɪ/"
+            },
+            "day": {
+                "ipa": "/ˈdeɪ/"
+            },
+            "dress": {
+                "ipa": "/ˈdrɛs/"
+            },
+            "eat": {
+                "ipa": "/ˈiːt/"
+            },
+            "egg": {
+                "ipa": "/ˈɛg/"
+            },
+            "face": {
+                "ipa": "/ˈfeɪs/"
+            },
+            "father": {
+                "ipa": "/ˈfɑːðə/"
+            },
+            "fleece": {
+                "ipa": "/ˈfliːs/"
+            },
+            "flight": {
+                "ipa": "/ˈflaɪt/"
+            },
+            "flood": {
+                "ipa": "/flʌd/"
+            },
+            "foot": {
+                "ipa": "/ˈfʊt/"
+            },
+            "fowl": {
+                "ipa": "/ˈfaʊl/"
+            },
+            "friend": {
+                "ipa": "/ˈfrɛnd/"
+            },
+            "gas": {
+                "ipa": "/ˈgæs/"
+            },
+            "gem": {
+                "ipa": "/dʒɛm/"
+            },
+            "goat": {
+                "ipa": "/ˈɡəʊt/"
+            },
+            "goose": {
+                "ipa": "/ˈguːs/"
+            },
+            "hair": {
+                "ipa": "/ˈhɛər/"
+            },
+            "hard": {
+                "ipa": "/ˈhɑːrd/"
+            },
+            "hear": {
+                "ipa": "/ˈhɪər/"
+            },
+            "heifer": {
+                "ipa": "/ˈhɛfər/"
+            },
+            "hymn": {
+                "ipa": "/ˈhɪm/"
+            },
+            "igloo": {
+                "ipa": "/ˈɪgluː/"
+            },
+            "kit": {
+                "ipa": "/ˈkɪt/"
+            },
+            "law": {
+                "ipa": "/ˈlɔː/"
+            },
+            "learn": {
+                "ipa": "/ˈlɜːrn/"
+            },
+            "leopard": {
+                "ipa": "/ˈlɛpərd/"
+            },
+            "lot": {
+                "ipa": "/lɒt/"
+            },
+            "many": {
+                "ipa": "/ˈmɛni/"
+            },
+            "meet": {
+                "ipa": "/ˈmiːt/"
+            },
+            "monkey": {
+                "ipa": "/ˈmʌŋki/"
+            },
+            "mouth": {
+                "ipa": "/ˈmaʊθ/"
+            },
+            "mug": {
+                "ipa": "/ˈmʌg/"
+            },
+            "near": {
+                "ipa": "/ˈnɪər/"
+            },
+            "no": {
+                "ipa": "/nəʊ/"
+            },
+            "north": {
+                "ipa": "/ˈnɔːθ/"
+            },
+            "now": {
+                "ipa": "/ˈnaʊ/"
+            },
+            "nurse": {
+                "ipa": "/ˈnɜːrs/"
+            },
+            "orange": {
+                "ipa": "/ˈɒrɪndʒ/"
+            },
+            "pair": {
+                "ipa": "/ˈpɛər/"
+            },
+            "pay": {
+                "ipa": "/ˈpeɪ/"
+            },
+            "pier": {
+                "ipa": "/ˈpɪər/"
+            },
+            "plaid": {
+                "ipa": "/ˈplæd/"
+            },
+            "poor": {
+                "ipa": "/ˈpʊər/"
+            },
+            "pot": {
+                "ipa": "/ˈpɒt/"
+            },
+            "pray": {
+                "ipa": "/ˈpreɪ/"
+            },
+            "price": {
+                "ipa": "/ˈpraɪs/"
+            },
+            "pure": {
+                "ipa": "/ˈpjʊər/"
+            },
+            "rub": {
+                "ipa": "/ˈrʌb/"
+            },
+            "said": {
+                "ipa": "/ˈsɛd/"
+            },
+            "say": {
+                "ipa": "/ˈseɪ/"
+            },
+            "show": {
+                "ipa": "/ˈʃəʊ/"
+            },
+            "sieve": {
+                "ipa": "/ˈsɪv/"
+            },
+            "sin": {
+                "ipa": "/ˈsɪn/"
+            },
+            "sky": {
+                "ipa": "/ˈskaɪ/"
+            },
+            "square": {
+                "ipa": "/ˈskwɛər/"
+            },
+            "start": {
+                "ipa": "/ˈstɑːt/"
+            },
+            "stir": {
+                "ipa": "/ˈstɜːr/"
+            },
+            "strut": {
+                "ipa": "/ˈstrʌt/"
+            },
+            "sun": {
+                "ipa": "/ˈsʌn/"
+            },
+            "swan": {
+                "ipa": "/ˈswɒn/"
+            },
+            "thought": {
+                "ipa": "/ˈθɔːt/"
+            },
+            "tour": {
+                "ipa": "/ˈtʊər/"
+            },
+            "toy": {
+                "ipa": "/ˈtɔɪ/"
+            },
+            "trap": {
+                "ipa": "/ˈtræp/"
+            },
+            "trouble": {
+                "ipa": "/ˈtrʌbəl/"
+            },
+            "voice": {
+                "ipa": "/ˈvɔɪs/"
+            },
+            "war": {
+                "ipa": "/ˈwɔːr/"
+            },
+            "wet": {
+                "ipa": "/ˈwɛt/"
+            },
+            "wolf": {
+                "ipa": "/ˈwʊlf/"
+            },
+            "women": {
+                "ipa": "/ˈwɪmɪn/"
+            },
+            "zip": {
+                "ipa": "/ˈzɪp/"
+            }
+        },
+        "voices": [
+            "Hans",
+            "Mathieu",
+            "Lea",
+            "Lotte",
+            "Vicki",
+            "Filiz",
+            "Naja",
+            "Gwyneth",
+            "Emma",
+            "Ewa",
+            "Amy",
+            "Mads",
+            "Lucia",
+            "Maxim",
+            "Ricardo",
+            "Jacek",
+            "Brian",
+            "Cristiano",
+            "Marlene",
+            "Conchita",
+            "Bianca",
+            "Jan",
+            "Dora",
+            "Ruben",
+            "Karl",
+            "Giorgio",
+            "Carmen",
+            "Tatyana",
+            "Celine",
+            "Enrique",
+            "Ines",
+            "Astrid",
+            "Liv",
+            "Vitoria",
+            "Carla",
+            "Camila",
+            "Maja"
+        ]
+    },
+    "es-ES": {
+        "words": {
+            "A": {
+                "ipa": "/a/"
+            },
+            "B": {
+                "ipa": "/be/"
+            },
+            "C": {
+                "ipa": "/θe/"
+            },
+            "D": {
+                "ipa": "/d̪e/"
+            },
+            "E": {
+                "ipa": "/e/"
+            },
+            "F": {
+                "ipa": "/ˈefe/"
+            },
+            "G": {
+                "ipa": "/xe/"
+            },
+            "H": {
+                "ipa": "/ˈaʧe/"
+            },
+            "I": {
+                "ipa": "/i/"
+            },
+            "J": {
+                "ipa": "/ˈxota/"
+            },
+            "Juan": {
+                "ipa": "/ˈxwãn/"
+            },
+            "K": {
+                "ipa": "/ka/"
+            },
+            "L": {
+                "ipa": "/ˈele/"
+            },
+            "M": {
+                "ipa": "/ˈeme/"
+            },
+            "N": {
+                "ipa": "/ˈene/"
+            },
+            "O": {
+                "ipa": "/o/"
+            },
+            "P": {
+                "ipa": "/pe/"
+            },
+            "Q": {
+                "ipa": "/ku/"
+            },
+            "R": {
+                "ipa": "/ˈere/"
+            },
+            "S": {
+                "ipa": "/ˈese/"
+            },
+            "T": {
+                "ipa": "/t̪e/"
+            },
+            "U": {
+                "ipa": "/u/"
+            },
+            "V": {
+                "ipa": "/ˈuβe/"
+            },
+            "W": {
+                "ipa": "/ˈuβe ˈð̪oβle/"
+            },
+            "X": {
+                "ipa": "/ˈekis/"
+            },
+            "Y": {
+                "ipa": "/ʝe/"
+            },
+            "Z": {
+                "ipa": "/θeta/"
+            },
+            "aguja": {
+                "ipa": "/aˈɰu.xa/"
+            },
+            "aire": {
+                "ipa": "/ˈaj.ɾe/"
+            },
+            "alto": {
+                "ipa": "/ˈal.to/"
+            },
+            "alzar": {
+                "ipa": "/alˈθar/"
+            },
+            "amar": {
+                "ipa": "/aˈmaɾ/"
+            },
+            "antes": {
+                "ipa": "/ˈan̪.tes/"
+            },
+            "asno": {
+                "ipa": "/ˈas.no/"
+            },
+            "año": {
+                "ipa": "/ˈa.ɲo/"
+            },
+            "bondad": {
+                "ipa": "/bon.ˈdað/"
+            },
+            "calzado": {
+                "ipa": "/kalˈθa.ðo/"
+            },
+            "carro": {
+                "ipa": "/ˈka.ro/"
+            },
+            "casa": {
+                "ipa": "/ˈka.sa/"
+            },
+            "color": {
+                "ipa": "/ko̞.ˈlo̞ɾ/"
+            },
+            "confuso": {
+                "ipa": "/koɱˈfu.so/"
+            },
+            "cuadro": {
+                "ipa": "/ˈkwa.dɾo/"
+            },
+            "cuota": {
+                "ipa": "/ˈkwo.ta/"
+            },
+            "cónyuge": {
+                "ipa": "/ˈkon.ʝu.xe/"
+            },
+            "desde": {
+                "ipa": "/ˈd̪es.d̪e/"
+            },
+            "ducho": {
+                "ipa": "/ˈdu.tʃo/"
+            },
+            "encía": {
+                "ipa": "/en.ˈθi.a/"
+            },
+            "falda": {
+                "ipa": "/ˈfal.da/"
+            },
+            "fuego": {
+                "ipa": "/ˈfwe.ɰo/"
+            },
+            "guitarra": {
+                "ipa": "/giˈta.ra/"
+            },
+            "haba": {
+                "ipa": "/ˈa.βa/"
+            },
+            "hora": {
+                "ipa": "/ˈo.ɾa/"
+            },
+            "hoy": {
+                "ipa": "/oj/"
+            },
+            "hueso": {
+                "ipa": "/ˈwe.so/"
+            },
+            "luna": {
+                "ipa": "/ˈlu.na/"
+            },
+            "mano": {
+                "ipa": "/ˈma.no/"
+            },
+            "mayo": {
+                "ipa": "/ˈma.ʝo/"
+            },
+            "mismo": {
+                "ipa": "/ˈmis.mo/"
+            },
+            "mucho": {
+                "ipa": "/ˈmu.tʃo/"
+            },
+            "muslo": {
+                "ipa": "/ˈmus.lo/"
+            },
+            "muy": {
+                "ipa": "/ˈmuj/"
+            },
+            "neutro": {
+                "ipa": "/ˈnew.tɾo/"
+            },
+            "nieto": {
+                "ipa": "/ˈnje.to/"
+            },
+            "nunca": {
+                "ipa": "/ˈnuŋ.ka/"
+            },
+            "padre": {
+                "ipa": "/ˈpa.ðɾe/"
+            },
+            "perro": {
+                "ipa": "/ˈpe.ro/"
+            },
+            "quimera": {
+                "ipa": "/ki.ˈme.ɾa/"
+            },
+            "radio": {
+                "ipa": "/ˈrɑːdjɔ/"
+            },
+            "rey": {
+                "ipa": "/ˈrej/"
+            },
+            "rogar": {
+                "ipa": "/ro̞ˈgäɾ/"
+            },
+            "rosa": {
+                "ipa": "/ˈro.sa/"
+            },
+            "rueda": {
+                "ipa": "/ˈrwe.ða/"
+            },
+            "taza": {
+                "ipa": "/ˈta.θa/"
+            },
+            "tierra": {
+                "ipa": "/ˈtje.ra/"
+            },
+            "tomar": {
+                "ipa": "/toˈmaɾ/"
+            },
+            "trigo": {
+                "ipa": "/ˈtɾi.ɰo/"
+            },
+            "verdad": {
+                "ipa": "/beɾˈðað/"
+            },
+            "vida": {
+                "ipa": "/ˈbi.ða/"
+            },
+            "viuda": {
+                "ipa": "/ˈbju.ða/"
+            },
+            "Ñ": {
+                "ipa": "/ˈeɲe/"
+            }
+        },
+        "voices": [
+            "Hans",
+            "Mathieu",
+            "Lea",
+            "Lotte",
+            "Vicki",
+            "Filiz",
+            "Naja",
+            "Gwyneth",
+            "Emma",
+            "Ewa",
+            "Amy",
+            "Mads",
+            "Lucia",
+            "Maxim",
+            "Ricardo",
+            "Jacek",
+            "Brian",
+            "Cristiano",
+            "Marlene",
+            "Conchita",
+            "Bianca",
+            "Jan",
+            "Dora",
+            "Ruben",
+            "Karl",
+            "Giorgio",
+            "Carmen",
+            "Tatyana",
+            "Celine",
+            "Enrique",
+            "Ines",
+            "Astrid",
+            "Liv",
+            "Vitoria",
+            "Carla",
+            "Camila",
+            "Maja"
+        ]
+    },
+    "fr-FR": {
+        "words": {
+            "A": {
+                "ipa": "/a/"
+            },
+            "B": {
+                "ipa": "/be/"
+            },
+            "Berlin": {
+                "ipa": "/bɛʀlɛ̃/"
+            },
+            "C": {
+                "ipa": "/se/"
+            },
+            "Charlotte": {
+                "ipa": "/ʃaʀlɔt/"
+            },
+            "D": {
+                "ipa": "/de/"
+            },
+            "E": {
+                "ipa": "/ə/"
+            },
+            "F": {
+                "ipa": "/ɛf/"
+            },
+            "G": {
+                "ipa": "/ʒe/"
+            },
+            "H": {
+                "ipa": "/aʃ/"
+            },
+            "I": {
+                "ipa": "/i/"
+            },
+            "J": {
+                "ipa": "/ʒi/"
+            },
+            "Jean": {
+                "ipa": "/dʒin/"
+            },
+            "K": {
+                "ipa": "/kɑ/"
+            },
+            "L": {
+                "ipa": "/ɛl/"
+            },
+            "M": {
+                "ipa": "/ɛm/"
+            },
+            "N": {
+                "ipa": "/ɛn/"
+            },
+            "O": {
+                "ipa": "/o/"
+            },
+            "P": {
+                "ipa": "/pe/"
+            },
+            "Q": {
+                "ipa": "/ky/"
+            },
+            "R": {
+                "ipa": "/ɛʀ/"
+            },
+            "S": {
+                "ipa": "/ɛs/"
+            },
+            "T": {
+                "ipa": "/te/"
+            },
+            "U": {
+                "ipa": "/y/"
+            },
+            "V": {
+                "ipa": "/ve/"
+            },
+            "W": {
+                "ipa": "/dubləve/"
+            },
+            "X": {
+                "ipa": "/iks/"
+            },
+            "Y": {
+                "ipa": "/igʀɛk/"
+            },
+            "Z": {
+                "ipa": "/zɛd/"
+            },
+            "abbé": {
+                "ipa": "/abe/"
+            },
+            "accorder": {
+                "ipa": "/akɔʀde/"
+            },
+            "achat": {
+                "ipa": "/aʃa/"
+            },
+            "addition": {
+                "ipa": "/adisjɔ̃/"
+            },
+            "adroit": {
+                "ipa": "/adʀwa/"
+            },
+            "adverbe": {
+                "ipa": "/advɛʀb/"
+            },
+            "adversaire": {
+                "ipa": "/advɛʀsɛʀ/"
+            },
+            "affaire": {
+                "ipa": "/afɛʀ/"
+            },
+            "affirmation": {
+                "ipa": "/afiʀmasjɔ̃/"
+            },
+            "aigre": {
+                "ipa": "/ɛgʀ/"
+            },
+            "airbag": {
+                "ipa": "/ɛʀbag/"
+            },
+            "alerter": {
+                "ipa": "/alɛʀte/"
+            },
+            "alexandrin": {
+                "ipa": "/alɛksɑ̃dʀɛ̃/"
+            },
+            "aller": {
+                "ipa": "/ale/"
+            },
+            "allergie": {
+                "ipa": "/alɛʀʒi/"
+            },
+            "allergologue": {
+                "ipa": "/alɛʀgɔlɔg/"
+            },
+            "altercation": {
+                "ipa": "/altɛʀkasjɔ̃/"
+            },
+            "alternance": {
+                "ipa": "/altɛʀnɑ̃s/"
+            },
+            "amant": {
+                "ipa": "/amɑ̃/"
+            },
+            "amorphe": {
+                "ipa": "/amɔʀf/"
+            },
+            "ampoule": {
+                "ipa": "/ɑ̃pul/"
+            },
+            "an": {
+                "ipa": "/ɑ̃/"
+            },
+            "appel": {
+                "ipa": "/apɛl/"
+            },
+            "appelle": {
+                "ipa": "/apɛl/"
+            },
+            "apporter": {
+                "ipa": "/apɔʀte/"
+            },
+            "après": {
+                "ipa": "/apʀɛ/"
+            },
+            "arbitre": {
+                "ipa": "/aʀbitʀ/"
+            },
+            "arbre": {
+                "ipa": "/aʀbʀ/"
+            },
+            "arc": {
+                "ipa": "/aʀk/"
+            },
+            "arsenal": {
+                "ipa": "/aʀsənal/"
+            },
+            "attrait": {
+                "ipa": "/atʀɛ/"
+            },
+            "au": {
+                "ipa": "/o/"
+            },
+            "avant": {
+                "ipa": "/avɑ̃/"
+            },
+            "avez": {
+                "ipa": "/ave/"
+            },
+            "avril": {
+                "ipa": "/avʀil/"
+            },
+            "bague": {
+                "ipa": "/bag/"
+            },
+            "baie": {
+                "ipa": "/bɛ/"
+            },
+            "bain": {
+                "ipa": "/bɛ̃/"
+            },
+            "baisser": {
+                "ipa": "/bese/"
+            },
+            "bal": {
+                "ipa": "/bal/"
+            },
+            "banc": {
+                "ipa": "/bɑ̃/"
+            },
+            "bas": {
+                "ipa": "/bɑ/"
+            },
+            "base": {
+                "ipa": "/bɑz/"
+            },
+            "bavarder": {
+                "ipa": "/bavaʀde/"
+            },
+            "beau": {
+                "ipa": "/bo/"
+            },
+            "beurre": {
+                "ipa": "/bœʀ/"
+            },
+            "bof": {
+                "ipa": "/bɔf/"
+            },
+            "bol": {
+                "ipa": "/bɔl/"
+            },
+            "bon": {
+                "ipa": "/bɔ̃/"
+            },
+            "bonne": {
+                "ipa": "/bɔn/"
+            },
+            "bourgade": {
+                "ipa": "/buʀgad/"
+            },
+            "bras": {
+                "ipa": "/bʀɑ/"
+            },
+            "brise": {
+                "ipa": "/bʀiz/"
+            },
+            "bébé": {
+                "ipa": "/bebe/"
+            },
+            "camping": {
+                "ipa": "/kɑ̃piŋ/"
+            },
+            "cap": {
+                "ipa": "/kap'/"
+            },
+            "car": {
+                "ipa": "/kaʀ/"
+            },
+            "carpe": {
+                "ipa": "/kaʀp/"
+            },
+            "carré": {
+                "ipa": "/kaʀe/"
+            },
+            "cas": {
+                "ipa": "/kɑ/"
+            },
+            "casse": {
+                "ipa": "/kɑs/"
+            },
+            "cave": {
+                "ipa": "/kav/"
+            },
+            "cercle": {
+                "ipa": "/sɛʀkl/"
+            },
+            "cerise": {
+                "ipa": "/s(ə)ʀiz/"
+            },
+            "cerveau": {
+                "ipa": "/sɛʀvo/"
+            },
+            "charpente": {
+                "ipa": "/ʃaʀpɑ̃t/"
+            },
+            "chat": {
+                "ipa": "/ʃa/"
+            },
+            "circuler": {
+                "ipa": "/siʀkyle/"
+            },
+            "citerne": {
+                "ipa": "/sitɛʀn/"
+            },
+            "courbe": {
+                "ipa": "/kuʀb/"
+            },
+            "coût": {
+                "ipa": "/ku/"
+            },
+            "crise": {
+                "ipa": "/kʀiz/"
+            },
+            "câpre": {
+                "ipa": "/kɑpʀ/"
+            },
+            "des": {
+                "ipa": "/de/"
+            },
+            "deux": {
+                "ipa": "/dø/"
+            },
+            "don": {
+                "ipa": "/dɔ̃/"
+            },
+            "donne": {
+                "ipa": "/dɔn/"
+            },
+            "dos": {
+                "ipa": "/do/"
+            },
+            "droit": {
+                "ipa": "/dʀwa/"
+            },
+            "déborder": {
+                "ipa": "/debɔʀde/"
+            },
+            "défilé": {
+                "ipa": "/defile/"
+            },
+            "déserter": {
+                "ipa": "/dezɛʀte/"
+            },
+            "eau": {
+                "ipa": "/o/"
+            },
+            "encre": {
+                "ipa": "/ɑ̃kʀ/"
+            },
+            "essaim": {
+                "ipa": "/esɛ̃/"
+            },
+            "est": {
+                "ipa": "/ɛst/"
+            },
+            "et": {
+                "ipa": "/e/"
+            },
+            "eu": {
+                "ipa": "/y/"
+            },
+            "fantassin": {
+                "ipa": "/fɑ̃tasɛ̃/"
+            },
+            "farfouiller": {
+                "ipa": "/faʀfuje/"
+            },
+            "fermeture": {
+                "ipa": "/fɛʀmətyʀ/"
+            },
+            "ferveur": {
+                "ipa": "/fɛʀvœʀ/"
+            },
+            "forme": {
+                "ipa": "/fɔʀm/"
+            },
+            "fou": {
+                "ipa": "/fu/"
+            },
+            "frais": {
+                "ipa": "/fʀɛ/"
+            },
+            "français": {
+                "ipa": "/fʀɑ̃sɛ/"
+            },
+            "gaffe": {
+                "ipa": "/gaf/"
+            },
+            "gaufre": {
+                "ipa": "/gofʀ/"
+            },
+            "gaz": {
+                "ipa": "/gɑz/"
+            },
+            "gens": {
+                "ipa": "/ʒã/"
+            },
+            "grand": {
+                "ipa": "/gʀɑ̃/"
+            },
+            "gras": {
+                "ipa": "/gʀɑ/"
+            },
+            "gros": {
+                "ipa": "/gʀo/"
+            },
+            "halle": {
+                "ipa": "/ˈal/"
+            },
+            "harmonie": {
+                "ipa": "/aʀmɔni/"
+            },
+            "harpe": {
+                "ipa": "/ˈaʀp/"
+            },
+            "homme": {
+                "ipa": "/ɔm/"
+            },
+            "huit": {
+                "ipa": "/ˈɥi(t)/"
+            },
+            "humble": {
+                "ipa": "/œ̃bl/"
+            },
+            "hébergement": {
+                "ipa": "/ebɛʀʒəmɑ̃/"
+            },
+            "ici": {
+                "ipa": "/isi/"
+            },
+            "immersion": {
+                "ipa": "/imɛʀsjɔ̃/"
+            },
+            "important": {
+                "ipa": "/ɛ̃pɔʀtɑ̃/"
+            },
+            "impossible": {
+                "ipa": "/ɛ̃pɔsibl/"
+            },
+            "incessant": {
+                "ipa": "/ɛ̃sesɑ̃/"
+            },
+            "insistant": {
+                "ipa": "/ɛ̃sistɑ̃/"
+            },
+            "instant": {
+                "ipa": "/ɛ̃stɑ̃/"
+            },
+            "interférer": {
+                "ipa": "/ɛ̃tɛʀfeʀe/"
+            },
+            "interpellation": {
+                "ipa": "/ɛ̃tɛʀpelasjɔ̃/"
+            },
+            "intervention": {
+                "ipa": "/ɛ̃tɛʀvɑ̃sjɔ̃/"
+            },
+            "intéressant": {
+                "ipa": "/ɛ̃teʀesɑ̃/"
+            },
+            "jeu": {
+                "ipa": "/ʒø/"
+            },
+            "jonc": {
+                "ipa": "/ʒɔ̃/"
+            },
+            "journal": {
+                "ipa": "/ʒuʀnal/"
+            },
+            "las": {
+                "ipa": "/lɑ/"
+            },
+            "lent": {
+                "ipa": "/lɑ̃/"
+            },
+            "lit": {
+                "ipa": "/li/"
+            },
+            "lié": {
+                "ipa": "/lje/"
+            },
+            "loup": {
+                "ipa": "/lu/"
+            },
+            "main": {
+                "ipa": "/mɛ̃/"
+            },
+            "mais": {
+                "ipa": "/mɛ/"
+            },
+            "maison": {
+                "ipa": "/mɛzɔ̃/"
+            },
+            "mamie": {
+                "ipa": "/mami/"
+            },
+            "mandarin": {
+                "ipa": "/mɑ̃daʀɛ̃/"
+            },
+            "margarine": {
+                "ipa": "/maʀgaʀin/"
+            },
+            "maçon": {
+                "ipa": "/masɔ̃/"
+            },
+            "mercredi": {
+                "ipa": "/mɛʀkʀədi/"
+            },
+            "mode": {
+                "ipa": "/mɔd/"
+            },
+            "moi": {
+                "ipa": "/mwa/"
+            },
+            "mont": {
+                "ipa": "/mɔ̃/"
+            },
+            "musulman": {
+                "ipa": "/myzylmɑ̃/"
+            },
+            "nation": {
+                "ipa": "/nasjɔ̃/"
+            },
+            "neuf": {
+                "ipa": "/nœf/"
+            },
+            "non": {
+                "ipa": "/nɔ̃/"
+            },
+            "normal": {
+                "ipa": "/nɔʀmal/"
+            },
+            "nos": {
+                "ipa": "/no/"
+            },
+            "nous": {
+                "ipa": "/nu/"
+            },
+            "ombre": {
+                "ipa": "/ɔ̃bʀ/"
+            },
+            "on": {
+                "ipa": "/ɔ̃/"
+            },
+            "organisation": {
+                "ipa": "/ɔʀganizasjɔ̃/"
+            },
+            "orgueil": {
+                "ipa": "/ɔʀgœj/"
+            },
+            "os": {
+                "ipa": "/ɔs/"
+            },
+            "oui": {
+                "ipa": "/ˈwi/"
+            },
+            "où": {
+                "ipa": "/u/"
+            },
+            "pain": {
+                "ipa": "/pɛ̃/"
+            },
+            "paquet": {
+                "ipa": "/pakɛ/"
+            },
+            "parcours": {
+                "ipa": "/paʀkuʀ/"
+            },
+            "parfum": {
+                "ipa": "/paʀfœ̃/"
+            },
+            "parjure": {
+                "ipa": "/paʀʒyʀ/"
+            },
+            "patte": {
+                "ipa": "/pat/"
+            },
+            "paysan": {
+                "ipa": "/peizɑ̃/"
+            },
+            "persan": {
+                "ipa": "/pɛʀsɑ̃/"
+            },
+            "personnel": {
+                "ipa": "/pɛʀsɔnɛl/"
+            },
+            "persuasion": {
+                "ipa": "/pɛʀsɥazjɔ̃/"
+            },
+            "photo": {
+                "ipa": "/fɔto/"
+            },
+            "pipe": {
+                "ipa": "/pip/"
+            },
+            "plaisantin": {
+                "ipa": "/plɛzɑ̃tɛ̃/"
+            },
+            "plan": {
+                "ipa": "/plɑ̃/"
+            },
+            "plein": {
+                "ipa": "/plɛ̃/"
+            },
+            "plomb": {
+                "ipa": "/plɔ̃/"
+            },
+            "pot": {
+                "ipa": "/po/"
+            },
+            "pratique": {
+                "ipa": "/pʀatik/"
+            },
+            "prise": {
+                "ipa": "/pʀiz/"
+            },
+            "préféré": {
+                "ipa": "/pʀefeʀe/"
+            },
+            "quand": {
+                "ipa": "/kɑ̃/"
+            },
+            "quatorze": {
+                "ipa": "/katɔʀz/"
+            },
+            "quatorzième": {
+                "ipa": "/katɔʀzjɛm/"
+            },
+            "quatre": {
+                "ipa": "/katʀ/"
+            },
+            "raie": {
+                "ipa": "/ʀɛ/"
+            },
+            "rang": {
+                "ipa": "/ʀɑ̃/"
+            },
+            "rat": {
+                "ipa": "/ʀa/"
+            },
+            "rein": {
+                "ipa": "/ʀɛ̃/"
+            },
+            "ressortir": {
+                "ipa": "/ʀ(ə)sɔʀtiʀ/"
+            },
+            "retarder": {
+                "ipa": "/ʀ(ə)taʀde/"
+            },
+            "sa": {
+                "ipa": "/sa/"
+            },
+            "sac": {
+                "ipa": "/sak/"
+            },
+            "sain": {
+                "ipa": "/sɛ̃/"
+            },
+            "saint": {
+                "ipa": "/sɛ̃/"
+            },
+            "sais": {
+                "ipa": "/sɛ/"
+            },
+            "sang": {
+                "ipa": "/sɑ̃/"
+            },
+            "sans": {
+                "ipa": "/sɑ̃/"
+            },
+            "serpent": {
+                "ipa": "/sɛʀpɑ̃/"
+            },
+            "service": {
+                "ipa": "/sɛʀvis/"
+            },
+            "seul": {
+                "ipa": "/sœl/"
+            },
+            "si": {
+                "ipa": "/si/"
+            },
+            "signature": {
+                "ipa": "/siɲatyʀ/"
+            },
+            "sommeil": {
+                "ipa": "/sɔmɛj/"
+            },
+            "son": {
+                "ipa": "/sɔ̃/"
+            },
+            "sucre": {
+                "ipa": "/sykʀ/"
+            },
+            "sucré": {
+                "ipa": "/sykʀe/"
+            },
+            "sur": {
+                "ipa": "/syʀ/"
+            },
+            "surnom": {
+                "ipa": "/syʀnɔ̃/"
+            },
+            "survie": {
+                "ipa": "/syʀvi/"
+            },
+            "sûr": {
+                "ipa": "/syʀ/"
+            },
+            "tache": {
+                "ipa": "/taʃ/"
+            },
+            "taie": {
+                "ipa": "/tɛ/"
+            },
+            "tarte": {
+                "ipa": "/taʀt/"
+            },
+            "tas": {
+                "ipa": "/tɑ/"
+            },
+            "teindre": {
+                "ipa": "/tɛ̃dʀ/"
+            },
+            "teint": {
+                "ipa": "/tɛ̃/"
+            },
+            "temps": {
+                "ipa": "/tɑ̃/"
+            },
+            "tendre": {
+                "ipa": "/tɑ̃dʀ/"
+            },
+            "théorie": {
+                "ipa": "/teɔʀi/"
+            },
+            "tige": {
+                "ipa": "/tiʒ/"
+            },
+            "ton": {
+                "ipa": "/tɔ̃/"
+            },
+            "tonne": {
+                "ipa": "/tɔn/"
+            },
+            "tournage": {
+                "ipa": "/tuʀnaʒ/"
+            },
+            "transalpin": {
+                "ipa": "/tʀɑ̃zalpɛ̃/"
+            },
+            "travail": {
+                "ipa": "/tʀavaj/"
+            },
+            "triste": {
+                "ipa": "/tʀist/"
+            },
+            "trois": {
+                "ipa": "/tʀwɑ/"
+            },
+            "tronc": {
+                "ipa": "/tʀɔ̃/"
+            },
+            "tôt": {
+                "ipa": "/to/"
+            },
+            "un": {
+                "ipa": "/œ̃/"
+            },
+            "va": {
+                "ipa": "/va/"
+            },
+            "vais": {
+                "ipa": "/vɛ/"
+            },
+            "vent": {
+                "ipa": "/vɑ̃/"
+            },
+            "verdir": {
+                "ipa": "/vɛʀdiʀ/"
+            },
+            "veux": {
+                "ipa": "/vø/"
+            },
+            "vin": {
+                "ipa": "/vɛ̃/"
+            },
+            "vivre": {
+                "ipa": "/vivʀ/"
+            },
+            "vont": {
+                "ipa": "/vɔ̃/"
+            },
+            "vos": {
+                "ipa": "/vo/"
+            },
+            "vous": {
+                "ipa": "/vu/"
+            },
+            "vrai": {
+                "ipa": "/vʀɛ/"
+            },
+            "zoo": {
+                "ipa": "/zo(o)/"
+            },
+            "âge": {
+                "ipa": "/ɑʒ/"
+            },
+            "âgé": {
+                "ipa": "/ɑʒe/"
+            },
+            "âme": {
+                "ipa": "/ɑm/"
+            },
+            "âne": {
+                "ipa": "/ɑn/"
+            },
+            "écarter": {
+                "ipa": "/ekaʀte/"
+            },
+            "émergence": {
+                "ipa": "/emɛʀʒɑ̃s/"
+            },
+            "énergie": {
+                "ipa": "/enɛʀʒi/"
+            },
+            "épée": {
+                "ipa": "/epe/"
+            },
+            "été": {
+                "ipa": "/ete/"
+            },
+            "être": {
+                "ipa": "/ɛtʀ/"
+            }
+        },
+        "voices": [
+            "Hans",
+            "Mathieu",
+            "Lea",
+            "Lotte",
+            "Vicki",
+            "Filiz",
+            "Naja",
+            "Gwyneth",
+            "Emma",
+            "Ewa",
+            "Amy",
+            "Mads",
+            "Lucia",
+            "Maxim",
+            "Ricardo",
+            "Jacek",
+            "Brian",
+            "Cristiano",
+            "Marlene",
+            "Conchita",
+            "Bianca",
+            "Jan",
+            "Dora",
+            "Ruben",
+            "Karl",
+            "Giorgio",
+            "Carmen",
+            "Tatyana",
+            "Celine",
+            "Enrique",
+            "Ines",
+            "Astrid",
+            "Liv",
+            "Vitoria",
+            "Carla",
+            "Camila",
+            "Maja"
+        ]
+    }
+}
