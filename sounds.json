@@ -1391,7 +1391,8 @@
                 "ipa": "/sykʀe/"
             },
             "sur": {
-                "ipa": "/syʀ/"
+                "ipa": "/syʀ/",
+                "removedVoices":["Mathieu"]
             },
             "surnom": {
                 "ipa": "/syʀnɔ̃/"
@@ -1400,7 +1401,8 @@
                 "ipa": "/syʀvi/"
             },
             "sûr": {
-                "ipa": "/syʀ/"
+                "ipa": "/syʀ/",
+                "removedVoices":["Mathieu"]
             },
             "tache": {
                 "ipa": "/taʃ/"
