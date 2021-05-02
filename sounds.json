@@ -450,7 +450,8 @@
                 "ipa": "/ˈxota/"
             },
             "Juan": {
-                "ipa": "/ˈxwãn/"
+                "ipa": "/ˈxwãn/",
+                "removedVoices":["Conchita"]
             },
             "K": {
                 "ipa": "/ka/"
