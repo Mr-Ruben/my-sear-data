@@ -270,75 +270,6 @@
     "es-ES": {
         "langName": "Spanish (Spain)",
         "modules": {
-            "A B C D": {
-                "name": "A B C D",
-                "id": "A B C D",
-                "words": [
-                    "A",
-                    "B",
-                    "C",
-                    "D"
-                ]
-            },
-            "E F G H": {
-                "name": "E F G H",
-                "id": "E F G H",
-                "words": [
-                    "E",
-                    "F",
-                    "G",
-                    "H"
-                ]
-            },
-            "I J K L": {
-                "name": "I J K L",
-                "id": "I J K L",
-                "words": [
-                    "I",
-                    "J",
-                    "K",
-                    "L"
-                ]
-            },
-            "M N Ñ O": {
-                "name": "M N Ñ O",
-                "id": "M N Ñ O",
-                "words": [
-                    "M",
-                    "N",
-                    "Ñ",
-                    "O"
-                ]
-            },
-            "P Q R S": {
-                "name": "P Q R S",
-                "id": "P Q R S",
-                "words": [
-                    "P",
-                    "Q",
-                    "R",
-                    "S"
-                ]
-            },
-            "T U V W": {
-                "name": "T U V W",
-                "id": "T U V W",
-                "words": [
-                    "T",
-                    "U",
-                    "V",
-                    "W"
-                ]
-            },
-            "X Y Z": {
-                "name": "X Y Z",
-                "id": "X Y Z",
-                "words": [
-                    "X",
-                    "Y",
-                    "Z"
-                ]
-            },
             "Diptongos decrecientes": {
                 "name": "Diptongos decrecientes",
                 "id": "Diptongos decrecientes",
@@ -469,6 +400,76 @@
                 "words": [
                     "Juan",
                     "aguja"
+                ]
+            },
+
+            "A B C D": {
+                "name": "A B C D",
+                "id": "A B C D",
+                "words": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            "E F G H": {
+                "name": "E F G H",
+                "id": "E F G H",
+                "words": [
+                    "E",
+                    "F",
+                    "G",
+                    "H"
+                ]
+            },
+            "I J K L": {
+                "name": "I J K L",
+                "id": "I J K L",
+                "words": [
+                    "I",
+                    "J",
+                    "K",
+                    "L"
+                ]
+            },
+            "M N Ñ O": {
+                "name": "M N Ñ O",
+                "id": "M N Ñ O",
+                "words": [
+                    "M",
+                    "N",
+                    "Ñ",
+                    "O"
+                ]
+            },
+            "P Q R S": {
+                "name": "P Q R S",
+                "id": "P Q R S",
+                "words": [
+                    "P",
+                    "Q",
+                    "R",
+                    "S"
+                ]
+            },
+            "T U V W": {
+                "name": "T U V W",
+                "id": "T U V W",
+                "words": [
+                    "T",
+                    "U",
+                    "V",
+                    "W"
+                ]
+            },
+            "X Y Z": {
+                "name": "X Y Z",
+                "id": "X Y Z",
+                "words": [
+                    "X",
+                    "Y",
+                    "Z"
                 ]
             }
         }
