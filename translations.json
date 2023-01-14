@@ -119,7 +119,8 @@
             "CL7": "1 coin",
             "CL8": "3 coins",
             "CL9": "It is VERY IMPORTANT that you always think about it (How confident am I on this answer?) before selecting the confidence level, as it will improve your learning.",
-            "fr-FR": "French (France)"
+            "fr-FR": "French (France)",
+            "en-US": "English (American English)"
         },
         "es": {
             "StartLearning": "Comenzar a aprender",
@@ -178,7 +179,8 @@
             "CL7": "1 moneda",
             "CL8": "3 monedas",
             "CL9": "Es MUY IMPORTANTE que siempre piense en ello (¿Qué confianza tengo en esta respuesta?) Antes de seleccionar el nivel de confianza, ya que mejorará su aprendizaje.",
-            "fr-FR": "Francés (Francia)"
+            "fr-FR": "Francés (Francia)",
+            "en-US": "Inglés (inglés americano)"
         },
         "de": {
             "StartLearning": "Beginne zu lernen",
@@ -237,7 +239,8 @@
             "CL7": "1 Münze",
             "CL8": "3 Münzen",
             "CL9": "Es ist SEHR WICHTIG,dass Sie immer darüber nachdenken (wie sicher bin ich bei dieser Antwort?),Bevor Sie das Konfidenzniveau auswählen,da dies Ihr Lernen verbessern wird.",
-            "fr-FR": "Französisch (Frankreich)"
+            "fr-FR": "Französisch (Frankreich)",
+            "en-US": "Englisch (Amerikanisches Englisch)"
         },
         "ar": {
             "StartLearning": "ابدا بالتعلم",
@@ -296,7 +299,8 @@
             "CL7": "عملة واحدة",
             "CL8": "3 عملات معدنية",
             "CL9": "من المهم جدًا أن تفكر دائمًا في الأمر (ما مدى ثقته في هذه الإجابة؟) قبل تحديد مستوى الثقة ، حيث سيؤدي ذلك إلى تحسين التعلم.",
-            "fr-FR": " الفرنسية (فرنسا)"
+            "fr-FR": " الفرنسية (فرنسا)",
+            "en-US": "الإنجليزية (الإنجليزية الأمريكية)"
         },
         "hi": {
             "StartLearning": "सीखना शुरू करें",
@@ -355,7 +359,8 @@
             "CL7": "१ सिक्का",
             "CL8": "3 सिक्के",
             "CL9": "यह बहुत महत्वपूर्ण है कि आप हमेशा इसके बारे में सोचते हैं (आत्मविश्वास के स्तर का चयन करने से पहले मैं इस उत्तर पर कितना विश्वास कर सकता हूं?) क्योंकि यह आपके सीखने में सुधार करेगा।",
-            "fr-FR": "फ्रेंच (फ्रांस)"
+            "fr-FR": "फ्रेंच (फ्रांस)",
+            "en-US": "अंग्रेजी (अमेरिकी अंग्रेजी)"
         },
         "fr": {
             "StartLearning": "Commencer à apprendre",
@@ -414,7 +419,8 @@
             "CL7": "1 pièce",
             "CL8": "3 pièces",
             "CL9": "Il est TRÈS IMPORTANT que vous y réfléchissiez toujours (Dans quelle mesure suis-je sûr de cette réponse?) Avant de sélectionner le niveau de confiance,car cela améliorera votre apprentissage.",
-            "fr-FR": "Francaise (France)"
+            "fr-FR": "Francaise (France)",
+            "en-US": "Anglais (anglais américain)"
         },
         "zh": {
             "StartLearning": "开始学习",
@@ -473,7 +479,8 @@
             "CL7": "1个硬币",
             "CL8": "3枚硬币",
             "CL9": "非常重要的是，在选择置信度之前，请务必考虑一下（我对这个答案有多自信？），因为这将改善您的学习",
-            "fr-FR": "法国（法国）"
+            "fr-FR": "法国（法国）",
+            "en-US": "英语（美式英语）"
         },
         "ja": {
             "StartLearning": "学習を開始",
@@ -532,7 +539,8 @@
             "CL7": "1コイン",
             "CL8": "3コイン",
             "CL9": "信頼水準を選択する前に、常にそれについて考えることが非常に重要です（私はこの答えにどの程度自信がありますか？）。それはあなたの学習を改善するからです。",
-            "fr-FR": "フランス語（フランス）"
+            "fr-FR": "フランス語（フランス）",
+            "en-US": "英語 (アメリカ英語)"
         },
         "id": {
             "StartLearning": "Mulai belajar",
@@ -591,7 +599,8 @@
             "CL7": "1 koin",
             "CL8": "3 koin",
             "CL9": "SANGAT PENTING bahwa Anda selalu memikirkannya (Seberapa yakin saya pada jawaban ini?) Sebelum memilih tingkat kepercayaan,karena ini akan meningkatkan pembelajaran Anda.",
-            "fr-FR": "Prancis (Prancis)"
+            "fr-FR": "Prancis (Prancis)",
+            "en-US": "Inggris (Inggris Amerika)"
         },
         "pt": {
             "StartLearning": "Comece a aprender",
@@ -650,7 +659,8 @@
             "CL7": "1 moeda",
             "CL8": "3 moedas",
             "CL9": "É MUITO IMPORTANTE que você sempre pense sobre isso (Qual é o meu grau de confiança nessa resposta?) Antes de selecionar o nível de confiança,pois isso melhorará seu aprendizado.",
-            "fr-FR": "Francês (França)"
+            "fr-FR": "Francês (França)",
+            "en-US": "Inglês (inglês americano)"
         },
         "ru": {
             "StartLearning": "Начать обучение",
@@ -709,7 +719,8 @@
             "CL7": "1 монета",
             "CL8": "3 монеты",
             "CL9": "ОЧЕНЬ ВАЖНО,чтобы вы всегда думали об этом (насколько я уверен в этом ответе?),Прежде чем выбирать уровень уверенности,поскольку это улучшит ваше обучение.",
-            "fr-FR": "Французский (Франция)"
+            "fr-FR": "Французский (Франция)",
+            "en-US": "Английский (американский английский)"
         },
         "bn": {
             "StartLearning": "শেখা শুরু করো",
@@ -768,7 +779,8 @@
             "CL7": "1 মুদ্রা",
             "CL8": "3 কয়েন",
             "CL9": "এটি অত্যন্ত গুরুত্বপূর্ণ যে আপনি সর্বদা এটি সম্পর্কে চিন্তাভাবনা করেন (আত্মবিশ্বাসের স্তরটি বাছাই করার আগে আমি এই উত্তর সম্পর্কে কতটা আত্মবিশ্বাসী?) কারণ এটি আপনার শিক্ষার উন্নতি করবে।",
-            "fr-FR": "ফরাসী (ফ্রান্স)"
+            "fr-FR": "ফরাসী (ফ্রান্স)",
+            "en-US": "ইংরেজি (আমেরিকান ইংরেজি)"
         }
     }
 }
