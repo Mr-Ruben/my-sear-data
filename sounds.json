@@ -451,7 +451,9 @@
             },
             "Juan": {
                 "ipa": "/ˈxwãn/",
-                "removedVoices":["Conchita"]
+                "removedVoices": [
+                    "Conchita"
+                ]
             },
             "K": {
                 "ipa": "/ka/"
@@ -1567,6 +1569,82 @@
             "Carla",
             "Camila",
             "Maja"
+        ]
+    },
+    "en-US": {
+        "words": {
+            "do": {
+                "ipa": "/du/"
+            },
+            "you": {
+                "ipa": "/ju/"
+            },
+            "no": {
+                "ipa": "/noʊ/"
+            },
+            "sorry": {
+                "ipa": "/ˈsɑːri/"
+            },
+            "I": {
+                "ipa": "/aɪ/"
+            },
+            "miss": {
+                "ipa": "/mɪs/"
+            },
+            "speak": {
+                "ipa": "/spiːk/"
+            },
+            "sir": {
+                "ipa": "/sɜː/"
+            },
+            "spanish": {
+                "ipa": "/ˈspænɪʃ/"
+            },
+            "excuse": {
+                "ipa": "/ɪkˈskjuz/"
+            },
+            "me": {
+                "ipa": "/mi/"
+            }
+        },
+        "voices": [
+            "Gwyneth",
+            "Mads",
+            "Naja",
+            "Hans",
+            "Marlene",
+            "Vicki",
+            "Ivy",
+            "Joanna",
+            "Joey",
+            "Conchita",
+            "Enrique",
+            "Lucia",
+            "Celine",
+            "Lea",
+            "Mathieu",
+            "Dora",
+            "Karl",
+            "Bianca",
+            "Carla",
+            "Giorgio",
+            "Liv",
+            "Lotte",
+            "Ruben",
+            "Ewa",
+            "Jacek",
+            "Jan",
+            "Maja",
+            "Camila",
+            "Ricardo",
+            "Vitoria",
+            "Cristiano",
+            "Ines",
+            "Carmen",
+            "Maxim",
+            "Tatyana",
+            "Astrid",
+            "Filiz"
         ]
     }
 }
