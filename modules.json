@@ -264,6 +264,23 @@
                     "goat",
                     "goose"
                 ]
+            },
+            "Lesson 001": {
+                "id": "Lesson 001",
+                "name": "Lesson 001",
+                "words": [
+                    "do",
+                    "you",
+                    "no",
+                    "sorry",
+                    "I",
+                    "miss",
+                    "speak",
+                    "sir",
+                    "spanish",
+                    "excuse",
+                    "me"
+                ]
             }
         }
     },
@@ -402,7 +419,6 @@
                     "aguja"
                 ]
             },
-
             "A B C D": {
                 "name": "A B C D",
                 "id": "A B C D",
@@ -1212,6 +1228,28 @@
                     "teint",
                     "vais",
                     "vin"
+                ]
+            }
+        }
+    },
+    "en-US": {
+        "langName": "American English",
+        "modules": {
+            "Lesson 001": {
+                "id": "Lesson 001",
+                "name": "Lesson 001",
+                "words": [
+                    "do",
+                    "you",
+                    "no",
+                    "sorry",
+                    "I",
+                    "miss",
+                    "speak",
+                    "sir",
+                    "spanish",
+                    "excuse",
+                    "me"
                 ]
             }
         }
