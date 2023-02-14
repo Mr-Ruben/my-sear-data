@@ -1613,10 +1613,7 @@
             "Naja",
             "Hans",
             "Marlene",
-            "Vicki",
-            "Ivy",
-            "Joanna",
-            "Joey",
+            "Vicki",            
             "Conchita",
             "Enrique",
             "Lucia",
@@ -1644,7 +1641,13 @@
             "Maxim",
             "Tatyana",
             "Astrid",
-            "Filiz"
+            "Filiz",
+            'en-US-Wavenet-A',
+ 'en-US-Wavenet-B',
+ 'en-US-Wavenet-C',
+ 'en-US-Wavenet-D',
+ 'en-US-Wavenet-E',
+ 'en-US-Wavenet-F',        
         ]
     }
 }
