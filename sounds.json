@@ -32,7 +32,7 @@
                 "ipa": "/ˈeɪtʃ/"
             },
             "I": {
-                "ipa": "/ˈaɪ/"
+                "ipa": "aɪ"
             },
             "J": {
                 "ipa": "/ˈdʒeɪ/"
@@ -263,7 +263,7 @@
                 "ipa": "/ˈnɪər/"
             },
             "no": {
-                "ipa": "/nəʊ/"
+                "ipa": "nəʊ"
             },
             "north": {
                 "ipa": "/ˈnɔːθ/"
@@ -375,6 +375,33 @@
             },
             "zip": {
                 "ipa": "/ˈzɪp/"
+            },
+            "do": {
+                "ipa": "dʌ"
+            },
+            "you": {
+                "ipa": "juː"
+            },
+            "sorry": {
+                "ipa": "ˈsɒri"
+            },
+            "miss": {
+                "ipa": "mɪs"
+            },
+            "speak": {
+                "ipa": "spiːk"
+            },
+            "sir": {
+                "ipa": "sɪə"
+            },
+            "spanish": {
+                "ipa": "ˈspænɪʃ"
+            },
+            "excuse": {
+                "ipa": "ɪkˈskjuːs"
+            },
+            "me": {
+                "ipa": "miː"
             }
         },
         "voices": [
@@ -1574,37 +1601,37 @@
     "en-US": {
         "words": {
             "do": {
-                "ipa": "/du/"
+                "ipa": "du"
             },
             "you": {
-                "ipa": "/ju/"
+                "ipa": "ju"
             },
             "no": {
-                "ipa": "/noʊ/"
+                "ipa": "noʊ"
             },
             "sorry": {
-                "ipa": "/ˈsɑːri/"
+                "ipa": "ˈsɑːri"
             },
             "I": {
-                "ipa": "/aɪ/"
+                "ipa": "aɪ"
             },
             "miss": {
-                "ipa": "/mɪs/"
+                "ipa": "mɪs"
             },
             "speak": {
-                "ipa": "/spiːk/"
+                "ipa": "spiːk"
             },
             "sir": {
-                "ipa": "/sɜː/"
+                "ipa": "sɜː"
             },
             "spanish": {
-                "ipa": "/ˈspænɪʃ/"
+                "ipa": "ˈspænɪʃ"
             },
             "excuse": {
-                "ipa": "/ɪkˈskjuz/"
+                "ipa": "ɪkˈskjuz"
             },
             "me": {
-                "ipa": "/mi/"
+                "ipa": "mi"
             }
         },
         "voices": [
