@@ -492,7 +492,7 @@
                 "ipa": "/ˈuβe/"
             },
             "W": {
-                "ipa": "/ˈuβe ˈð̪oβle/"
+                "ipa": "/ˈuβe ˈð̪oβle/"
             },
             "X": {
                 "ipa": "/ˈekis/"
@@ -1613,7 +1613,10 @@
             "Naja",
             "Hans",
             "Marlene",
-            "Vicki",            
+            "Vicki",
+            "Ivy",
+            "Joanna",
+            "Joey",
             "Conchita",
             "Enrique",
             "Lucia",
@@ -1641,13 +1644,7 @@
             "Maxim",
             "Tatyana",
             "Astrid",
-            "Filiz",
-            "en-US-Wavenet-A",
-            "en-US-Wavenet-B",
-            "en-US-Wavenet-C",
-            "en-US-Wavenet-D",
-            "en-US-Wavenet-E",
-            "en-US-Wavenet-F"        
+            "Filiz"
         ]
     }
 }
