@@ -270,16 +270,145 @@
                 "name": "Lesson 001",
                 "words": [
                     "do",
+                    "am",
+                    "me",
+                    "spanish",
+                    "sir",
                     "you",
-                    "no",
-                    "sorry",
                     "I",
+                    "excuse",
+                    "sorry",
                     "miss",
                     "speak",
-                    "sir",
-                    "spanish",
-                    "excuse",
-                    "me"
+                    "no"
+                ]
+            },
+            "Lesson 002": {
+                "id": "Lesson 002",
+                "name": "Lesson 002",
+                "words": [
+                    "can",
+                    "yes",
+                    "help",
+                    "the",
+                    "where",
+                    "there",
+                    "are",
+                    "taxis",
+                    "english"
+                ]
+            },
+            "Lesson 003": {
+                "id": "Lesson 003",
+                "name": "Lesson 003",
+                "words": [
+                    "a",
+                    "go",
+                    "little",
+                    "morning",
+                    "understand",
+                    "want",
+                    "good",
+                    "to"
+                ]
+            },
+            "Lesson 004": {
+                "id": "Lesson 004",
+                "name": "Lesson 004",
+                "words": [
+                    "please",
+                    "my",
+                    "michael",
+                    "here",
+                    "ID",
+                    "your",
+                    "name",
+                    "see",
+                    "it",
+                    "is"
+                ]
+            },
+            "Lesson 005": {
+                "id": "Lesson 005",
+                "name": "Lesson 005",
+                "words": [
+                    "afternoon",
+                    "much",
+                    "take",
+                    "how",
+                    "3",
+                    "dollars",
+                    "that",
+                    "this",
+                    "cost"
+                ]
+            },
+            "Lesson 006": {
+                "id": "Lesson 006",
+                "name": "Lesson 006",
+                "words": [
+                    "just",
+                    "river",
+                    "bit",
+                    "walk",
+                    "more",
+                    "young",
+                    "goodbye",
+                    "lady"
+                ]
+            },
+            "Lesson 007": {
+                "id": "Lesson 007",
+                "name": "Lesson 007",
+                "words": [
+                    "an",
+                    "one",
+                    "ice",
+                    "hello",
+                    "soon",
+                    "which",
+                    "cream"
+                ]
+            },
+            "Lesson 008": {
+                "id": "Lesson 008",
+                "name": "Lesson 008",
+                "words": [
+                    "come",
+                    "would",
+                    "in",
+                    "dinner",
+                    "like",
+                    "have",
+                    "evening"
+                ]
+            },
+            "Lesson 009": {
+                "id": "Lesson 009",
+                "name": "Lesson 009",
+                "words": [
+                    "chips",
+                    "fish",
+                    "and",
+                    "many",
+                    "food",
+                    "with",
+                    "pleasure",
+                    "menu"
+                ]
+            },
+            "Lesson 010": {
+                "id": "Lesson 010",
+                "name": "Lesson 010",
+                "words": [
+                    "yours",
+                    "emily",
+                    "karl",
+                    "taxi",
+                    "night",
+                    "hotel",
+                    "10",
+                    "what"
                 ]
             }
         }
@@ -1240,16 +1369,145 @@
                 "name": "Lesson 001",
                 "words": [
                     "do",
+                    "am",
+                    "me",
+                    "spanish",
+                    "sir",
                     "you",
-                    "no",
-                    "sorry",
                     "I",
+                    "excuse",
+                    "sorry",
                     "miss",
                     "speak",
-                    "sir",
-                    "spanish",
-                    "excuse",
-                    "me"
+                    "no"
+                ]
+            },
+            "Lesson 002": {
+                "id": "Lesson 002",
+                "name": "Lesson 002",
+                "words": [
+                    "can",
+                    "yes",
+                    "help",
+                    "the",
+                    "where",
+                    "there",
+                    "are",
+                    "taxis",
+                    "english"
+                ]
+            },
+            "Lesson 003": {
+                "id": "Lesson 003",
+                "name": "Lesson 003",
+                "words": [
+                    "a",
+                    "go",
+                    "little",
+                    "morning",
+                    "understand",
+                    "want",
+                    "good",
+                    "to"
+                ]
+            },
+            "Lesson 004": {
+                "id": "Lesson 004",
+                "name": "Lesson 004",
+                "words": [
+                    "please",
+                    "my",
+                    "michael",
+                    "here",
+                    "ID",
+                    "your",
+                    "name",
+                    "see",
+                    "it",
+                    "is"
+                ]
+            },
+            "Lesson 005": {
+                "id": "Lesson 005",
+                "name": "Lesson 005",
+                "words": [
+                    "afternoon",
+                    "much",
+                    "take",
+                    "how",
+                    "3",
+                    "dollars",
+                    "that",
+                    "this",
+                    "cost"
+                ]
+            },
+            "Lesson 006": {
+                "id": "Lesson 006",
+                "name": "Lesson 006",
+                "words": [
+                    "just",
+                    "river",
+                    "bit",
+                    "walk",
+                    "more",
+                    "young",
+                    "goodbye",
+                    "lady"
+                ]
+            },
+            "Lesson 007": {
+                "id": "Lesson 007",
+                "name": "Lesson 007",
+                "words": [
+                    "an",
+                    "one",
+                    "ice",
+                    "hello",
+                    "soon",
+                    "which",
+                    "cream"
+                ]
+            },
+            "Lesson 008": {
+                "id": "Lesson 008",
+                "name": "Lesson 008",
+                "words": [
+                    "come",
+                    "would",
+                    "in",
+                    "dinner",
+                    "like",
+                    "have",
+                    "evening"
+                ]
+            },
+            "Lesson 009": {
+                "id": "Lesson 009",
+                "name": "Lesson 009",
+                "words": [
+                    "chips",
+                    "fish",
+                    "and",
+                    "many",
+                    "food",
+                    "with",
+                    "pleasure",
+                    "menu"
+                ]
+            },
+            "Lesson 010": {
+                "id": "Lesson 010",
+                "name": "Lesson 010",
+                "words": [
+                    "yours",
+                    "emily",
+                    "karl",
+                    "taxi",
+                    "night",
+                    "hotel",
+                    "10",
+                    "what"
                 ]
             }
         }
