@@ -402,6 +402,225 @@
             },
             "me": {
                 "ipa": "miː"
+            },
+            "is": {
+                "ipa": "ɪz"
+            },
+            "hello": {
+                "ipa": "hɛˈləʊ"
+            },
+            "go": {
+                "ipa": "ɡəʊ"
+            },
+            "your": {
+                "ipa": "jɔː(r)"
+            },
+            "lady": {
+                "ipa": "ˈleɪdi"
+            },
+            "menu": {
+                "ipa": "ˈmɛnjuː"
+            },
+            "just": {
+                "ipa": "dʒʌst"
+            },
+            "karl": {
+                "ipa": "kɑːl"
+            },
+            "taxi": {
+                "ipa": "ˈtæksi"
+            },
+            "would": {
+                "ipa": "wʊd"
+            },
+            "one": {
+                "ipa": "wʌn"
+            },
+            "how": {
+                "ipa": "haʊ"
+            },
+            "what": {
+                "ipa": "wɒt"
+            },
+            "there": {
+                "ipa": "ðeə(r)"
+            },
+            "my": {
+                "ipa": "maɪ"
+            },
+            "taxis": {
+                "ipa": "ˈtæksiz"
+            },
+            "to": {
+                "ipa": "tuː"
+            },
+            "night": {
+                "ipa": "naɪt"
+            },
+            "want": {
+                "ipa": "wɒnt"
+            },
+            "young": {
+                "ipa": "jʌŋ"
+            },
+            "cost": {
+                "ipa": "kɒst"
+            },
+            "michael": {
+                "ipa": "ˈmaɪkəl"
+            },
+            "where": {
+                "ipa": "weə(r)"
+            },
+            "name": {
+                "ipa": "neɪm"
+            },
+            "like": {
+                "ipa": "laɪk"
+            },
+            "much": {
+                "ipa": "mʌtʃ"
+            },
+            "it": {
+                "ipa": "ɪt"
+            },
+            "more": {
+                "ipa": "mɔː(r)"
+            },
+            "please": {
+                "ipa": "pliːz"
+            },
+            "help": {
+                "ipa": "hɛlp"
+            },
+            "the": {
+                "ipa": "ðə"
+            },
+            "bit": {
+                "ipa": "bɪt"
+            },
+            "in": {
+                "ipa": "ɪn"
+            },
+            "this": {
+                "ipa": "ðɪs"
+            },
+            "river": {
+                "ipa": "ˈrɪvə(r)"
+            },
+            "fish": {
+                "ipa": "fɪʃ"
+            },
+            "afternoon": {
+                "ipa": "ˌɑːftəˈnuːn"
+            },
+            "take": {
+                "ipa": "teɪk"
+            },
+            "that": {
+                "ipa": "ðæt"
+            },
+            "have": {
+                "ipa": "hæv"
+            },
+            "walk": {
+                "ipa": "wɔːk"
+            },
+            "ID": {
+                "ipa": "aɪˈdiː"
+            },
+            "dollars": {
+                "ipa": "ˈdɒləz"
+            },
+            "chips": {
+                "ipa": "tʃɪps"
+            },
+            "an": {
+                "ipa": "ən"
+            },
+            "can": {
+                "ipa": "kæn"
+            },
+            "evening": {
+                "ipa": "ˈiːvnɪŋ"
+            },
+            "are": {
+                "ipa": "ɑː(r)"
+            },
+            "see": {
+                "ipa": "siː"
+            },
+            "morning": {
+                "ipa": "ˈmɔːnɪŋ"
+            },
+            "emily": {
+                "ipa": "ˈɛməli"
+            },
+            "here": {
+                "ipa": "hɪə(r)"
+            },
+            "am": {
+                "ipa": "æm"
+            },
+            "little": {
+                "ipa": "ˈlɪtl"
+            },
+            "goodbye": {
+                "ipa": "ɡʊdˈbaɪ"
+            },
+            "come": {
+                "ipa": "kʌm"
+            },
+            "ice": {
+                "ipa": "aɪs"
+            },
+            "dinner": {
+                "ipa": "ˈdɪnə(r)"
+            },
+            "yes": {
+                "ipa": "jes"
+            },
+            "english": {
+                "ipa": "ˈɪŋɡlɪʃ"
+            },
+            "yours": {
+                "ipa": "jɔːz"
+            },
+            "10": {
+                "ipa": "tɛn"
+            },
+            "food": {
+                "ipa": "fuːd"
+            },
+            "hotel": {
+                "ipa": "həʊˈtɛl"
+            },
+            "with": {
+                "ipa": "wɪð"
+            },
+            "good": {
+                "ipa": "ɡʊd"
+            },
+            "3": {
+                "ipa": "θriː"
+            },
+            "and": {
+                "ipa": "ænd"
+            },
+            "soon": {
+                "ipa": "suːn"
+            },
+            "which": {
+                "ipa": "wɪtʃ"
+            },
+            "cream": {
+                "ipa": "kriːm"
+            },
+            "understand": {
+                "ipa": "ˌʌndə(r)ˈstænd"
+            },
+            "pleasure": {
+                "ipa": "ˈplɛʒər"
             }
         },
         "voices": [
@@ -1632,6 +1851,231 @@
             },
             "me": {
                 "ipa": "mi"
+            },
+            "is": {
+                "ipa": "ɪz"
+            },
+            "hello": {
+                "ipa": "hɛloʊ"
+            },
+            "menu": {
+                "ipa": "ˈmɛnju"
+            },
+            "karl": {
+                "ipa": "kɑrl"
+            },
+            "taxi": {
+                "ipa": "ˈtæksi"
+            },
+            "one": {
+                "ipa": "wʌn"
+            },
+            "how": {
+                "ipa": "haʊ"
+            },
+            "what": {
+                "ipa": "wʌt"
+            },
+            "there": {
+                "ipa": "ðɛr"
+            },
+            "taxis": {
+                "ipa": "ˈtæksiz"
+            },
+            "to": {
+                "ipa": "tu"
+            },
+            "night": {
+                "ipa": "naɪt"
+            },
+            "want": {
+                "ipa": "wɑnt"
+            },
+            "young": {
+                "ipa": "jʌŋ"
+            },
+            "cost": {
+                "ipa": "kɔst"
+            },
+            "michael": {
+                "ipa": "ˈmaɪkəl"
+            },
+            "more": {
+                "ipa": "mɔr"
+            },
+            "much": {
+                "ipa": "mʌtʃ"
+            },
+            "many": {
+                "ipa": "ˈmɛni"
+            },
+            "please": {
+                "ipa": "pliz"
+            },
+            "in": {
+                "ipa": "ɪn"
+            },
+            "river": {
+                "ipa": "ˈrɪvər"
+            },
+            "fish": {
+                "ipa": "fɪʃ"
+            },
+            "walk": {
+                "ipa": "wɔk"
+            },
+            "ID": {
+                "ipa": "aɪˈdi"
+            },
+            "dollars": {
+                "ipa": "ˈdɑlərz"
+            },
+            "evening": {
+                "ipa": "ˈivnɪŋ"
+            },
+            "see": {
+                "ipa": "si"
+            },
+            "here": {
+                "ipa": "hɪr"
+            },
+            "goodbye": {
+                "ipa": "ɡʊdˈbaɪ"
+            },
+            "ice": {
+                "ipa": "aɪs"
+            },
+            "dinner": {
+                "ipa": "ˈdɪnər"
+            },
+            "10": {
+                "ipa": "tɛn"
+            },
+            "hotel": {
+                "ipa": "hoʊˈtɛl"
+            },
+            "with": {
+                "ipa": "wɪð"
+            },
+            "good": {
+                "ipa": "ɡʊd"
+            },
+            "and": {
+                "ipa": "ænd"
+            },
+            "soon": {
+                "ipa": "sun"
+            },
+            "which": {
+                "ipa": "wɪtʃ"
+            },
+            "cream": {
+                "ipa": "krim"
+            },
+            "pleasure": {
+                "ipa": "ˈplɛʒər"
+            },
+            "it": {
+                "ipa": "ɪt"
+            },
+            "go": {
+                "ipa": "ɡoʊ"
+            },
+            "your": {
+                "ipa": "jʊr"
+            },
+            "lady": {
+                "ipa": "ˈleɪdi"
+            },
+            "just": {
+                "ipa": "dʒʌst"
+            },
+            "would": {
+                "ipa": "wʊd"
+            },
+            "my": {
+                "ipa": "maɪ"
+            },
+            "where": {
+                "ipa": "wɛr"
+            },
+            "name": {
+                "ipa": "neɪm"
+            },
+            "like": {
+                "ipa": "laɪk"
+            },
+            "help": {
+                "ipa": "hɛlp"
+            },
+            "the": {
+                "ipa": "ðə"
+            },
+            "this": {
+                "ipa": "ðɪs"
+            },
+            "afternoon": {
+                "ipa": "ˌæftərˈnun"
+            },
+            "take": {
+                "ipa": "teɪk"
+            },
+            "that": {
+                "ipa": "ðæt"
+            },
+            "have": {
+                "ipa": "hæv"
+            },
+            "a": {
+                "ipa": "ə"
+            },
+            "chips": {
+                "ipa": "tʃɪps"
+            },
+            "an": {
+                "ipa": "ən"
+            },
+            "can": {
+                "ipa": "kæn"
+            },
+            "are": {
+                "ipa": "ɑr"
+            },
+            "morning": {
+                "ipa": "ˈmɔrˌnɪŋ"
+            },
+            "emily": {
+                "ipa": "ˈɛməli"
+            },
+            "am": {
+                "ipa": "æm"
+            },
+            "little": {
+                "ipa": "ˈlɪtl"
+            },
+            "come": {
+                "ipa": "kʌm"
+            },
+            "yes": {
+                "ipa": "jɛs"
+            },
+            "english": {
+                "ipa": "ˈɪŋɡlɪʃ"
+            },
+            "yours": {
+                "ipa": "jʊrz"
+            },
+            "food": {
+                "ipa": "fud"
+            },
+            "3": {
+                "ipa": "θri"
+            },
+            "bit": {
+                "ipa": "bɪt"
+            },
+            "understand": {
+                "ipa": "ˌʌndərˈstænd"
             }
         },
         "voices": [
