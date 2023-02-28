@@ -1471,7 +1471,7 @@
             },
             "Lesson 008": {
                 "id": "Lesson 008",
-                "name": "Lesson 008 of <a href="http://taliako.com">http://taliako.com</a>",
+                "name": "Lesson 008 of <a href=\"http://taliako.com\">http://taliako.com</a>",
                 "words": [
                     "come",
                     "would",
