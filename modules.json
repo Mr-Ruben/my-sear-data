@@ -2,6 +2,152 @@
     "en-GB": {
         "langName": "English (British English)",
         "modules": {
+            "Lesson 001": {
+                "id": "Lesson 001",
+                "name": "Lesson 001 of http://taliako.com",
+                "words": [
+                    "do",
+                    "am",
+                    "me",
+                    "spanish",
+                    "sir",
+                    "you",
+                    "I",
+                    "excuse",
+                    "sorry",
+                    "miss",
+                    "speak",
+                    "no"
+                ]
+            },
+            "Lesson 002": {
+                "id": "Lesson 002",
+                "name": "Lesson 002 of http://taliako.com",
+                "words": [
+                    "can",
+                    "yes",
+                    "help",
+                    "the",
+                    "where",
+                    "there",
+                    "are",
+                    "taxis",
+                    "english"
+                ]
+            },
+            "Lesson 003": {
+                "id": "Lesson 003",
+                "name": "Lesson 003 of http://taliako.com",
+                "words": [
+                    "a",
+                    "go",
+                    "little",
+                    "morning",
+                    "understand",
+                    "want",
+                    "good",
+                    "to"
+                ]
+            },
+            "Lesson 004": {
+                "id": "Lesson 004",
+                "name": "Lesson 004 of http://taliako.com",
+                "words": [
+                    "please",
+                    "my",
+                    "michael",
+                    "here",
+                    "ID",
+                    "your",
+                    "name",
+                    "see",
+                    "it",
+                    "is"
+                ]
+            },
+            "Lesson 005": {
+                "id": "Lesson 005",
+                "name": "Lesson 005 of http://taliako.com",
+                "words": [
+                    "afternoon",
+                    "much",
+                    "take",
+                    "how",
+                    "3",
+                    "dollars",
+                    "that",
+                    "this",
+                    "cost"
+                ]
+            },
+            "Lesson 006": {
+                "id": "Lesson 006",
+                "name": "Lesson 006 of http://taliako.com",
+                "words": [
+                    "just",
+                    "river",
+                    "bit",
+                    "walk",
+                    "more",
+                    "young",
+                    "goodbye",
+                    "lady"
+                ]
+            },
+            "Lesson 007": {
+                "id": "Lesson 007",
+                "name": "Lesson 007 of http://taliako.com",
+                "words": [
+                    "an",
+                    "one",
+                    "ice",
+                    "hello",
+                    "soon",
+                    "which",
+                    "cream"
+                ]
+            },
+            "Lesson 008": {
+                "id": "Lesson 008",
+                "name": "Lesson 008 of http://taliako.com",
+                "words": [
+                    "come",
+                    "would",
+                    "in",
+                    "dinner",
+                    "like",
+                    "have",
+                    "evening"
+                ]
+            },
+            "Lesson 009": {
+                "id": "Lesson 009",
+                "name": "Lesson 009 of http://taliako.com",
+                "words": [
+                    "chips",
+                    "fish",
+                    "and",
+                    "many",
+                    "food",
+                    "with",
+                    "pleasure",
+                    "menu"
+                ]
+            },
+            "Lesson 010": {
+                "id": "Lesson 010",
+                "name": "Lesson 010 of http://taliako.com",
+                "words": [
+                    "yours",
+                    "emily",
+                    "karl",
+                    "taxi",
+                    "night",
+                    "hotel",
+                    "10",
+                    "what"
+                ]
+            },
             "AEIOU": {
                 "name": "A E I O U",
                 "id": "AEIOU",
@@ -265,152 +411,6 @@
                     "goose"
                 ]
             },
-            "Lesson 001": {
-                "id": "Lesson 001",
-                "name": "Lesson 001 of http://taliako.com",
-                "words": [
-                    "do",
-                    "am",
-                    "me",
-                    "spanish",
-                    "sir",
-                    "you",
-                    "I",
-                    "excuse",
-                    "sorry",
-                    "miss",
-                    "speak",
-                    "no"
-                ]
-            },
-            "Lesson 002": {
-                "id": "Lesson 002",
-                "name": "Lesson 002 of http://taliako.com",
-                "words": [
-                    "can",
-                    "yes",
-                    "help",
-                    "the",
-                    "where",
-                    "there",
-                    "are",
-                    "taxis",
-                    "english"
-                ]
-            },
-            "Lesson 003": {
-                "id": "Lesson 003",
-                "name": "Lesson 003 of http://taliako.com",
-                "words": [
-                    "a",
-                    "go",
-                    "little",
-                    "morning",
-                    "understand",
-                    "want",
-                    "good",
-                    "to"
-                ]
-            },
-            "Lesson 004": {
-                "id": "Lesson 004",
-                "name": "Lesson 004 of http://taliako.com",
-                "words": [
-                    "please",
-                    "my",
-                    "michael",
-                    "here",
-                    "ID",
-                    "your",
-                    "name",
-                    "see",
-                    "it",
-                    "is"
-                ]
-            },
-            "Lesson 005": {
-                "id": "Lesson 005",
-                "name": "Lesson 005 of http://taliako.com",
-                "words": [
-                    "afternoon",
-                    "much",
-                    "take",
-                    "how",
-                    "3",
-                    "dollars",
-                    "that",
-                    "this",
-                    "cost"
-                ]
-            },
-            "Lesson 006": {
-                "id": "Lesson 006",
-                "name": "Lesson 006 of http://taliako.com",
-                "words": [
-                    "just",
-                    "river",
-                    "bit",
-                    "walk",
-                    "more",
-                    "young",
-                    "goodbye",
-                    "lady"
-                ]
-            },
-            "Lesson 007": {
-                "id": "Lesson 007",
-                "name": "Lesson 007 of http://taliako.com",
-                "words": [
-                    "an",
-                    "one",
-                    "ice",
-                    "hello",
-                    "soon",
-                    "which",
-                    "cream"
-                ]
-            },
-            "Lesson 008": {
-                "id": "Lesson 008",
-                "name": "Lesson 008 of http://taliako.com",
-                "words": [
-                    "come",
-                    "would",
-                    "in",
-                    "dinner",
-                    "like",
-                    "have",
-                    "evening"
-                ]
-            },
-            "Lesson 009": {
-                "id": "Lesson 009",
-                "name": "Lesson 009 of http://taliako.com",
-                "words": [
-                    "chips",
-                    "fish",
-                    "and",
-                    "many",
-                    "food",
-                    "with",
-                    "pleasure",
-                    "menu"
-                ]
-            },
-            "Lesson 010": {
-                "id": "Lesson 010",
-                "name": "Lesson 010 of http://taliako.com",
-                "words": [
-                    "yours",
-                    "emily",
-                    "karl",
-                    "taxi",
-                    "night",
-                    "hotel",
-                    "10",
-                    "what"
-                ]
-            }
         }
     },
     "es-ES": {
